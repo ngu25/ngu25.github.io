@@ -2,6 +2,7 @@
 layout: default
 title: Resume
 ---
+<!-- commented
 
 # __R É S U M É__
 
