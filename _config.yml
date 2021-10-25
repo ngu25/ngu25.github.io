@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://navadeepganesh.github.io
+url: https://navadeepganeshu.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -39,13 +39,13 @@ twitter: UNavadeep
 # instagram: myinstagram
 # pinterest: mypinterest
  linkedin: ngu25
- youtube: CL3VERTRONICS
+# youtube: myyoutube
 # spotify: myspotify
 github: navadeepganeshu
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
- quora: Navadeep-Ganesh-U
+# quora: userquora
 # reddit: username
 # medium: medium
 # vimeo: myvimeo
@@ -54,11 +54,17 @@ email: navadeepganesh.ngu@gmail.com
 
 authors:
   johndoe:
-    name: Nil
-    bio: Haha
+    name: Nobody
+    bio: Nil
     external-image: false
     picture: assets/images/profile.jpg
     twitter: UNavadeep
+#  jamesfoster:
+  #  name: James Foster
+  #  bio: A Man who develops software with coffee
+  #  external-image: false
+  #  picture: assets/images/james.jpg
+  #  twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
