@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: https://google.com/?q=my+resume
+resume-url: resume
 
 url: https://navadeepganeshu.github.io
 # your url: https://USERNAME.github.io
@@ -38,14 +38,14 @@ disqus:
 twitter: UNavadeep
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: ngu25
+ linkedin: ngu25
 # youtube: myyoutube
 # spotify: myspotify
 github: navadeepganeshu
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
-# quora: userquora
+ quora: Navadeep-Ganesh-U
 # reddit: username
 # medium: medium
 # vimeo: myvimeo
@@ -55,7 +55,7 @@ email: navadeepganesh.ngu@gmail.com
 authors:
   johndoe:
     name: Navadeep
-    bio: EE
+    bio: Student, EE
     external-image: false
     picture: assets/images/profile.jpg
     twitter: UNavadeep
