@@ -1,6 +1,6 @@
 # main text of home
 name: Navadeep Ganesh U
-bio: Electronics seem supercool to me!
+bio: Electronics seem supercool to me
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -13,7 +13,7 @@ picture: assets/images/profile.jpg
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
+resume-external: false
 resume-url: https://google.com/?q=my+resume
 
 url: https://navadeepganeshu.github.io
@@ -38,7 +38,7 @@ disqus:
 twitter: UNavadeep
 # instagram: myinstagram
 # pinterest: mypinterest
- linkedin: ngu25
+# linkedin: ngu25
 # youtube: myyoutube
 # spotify: myspotify
 github: navadeepganeshu
@@ -54,17 +54,11 @@ email: navadeepganesh.ngu@gmail.com
 
 authors:
   johndoe:
-    name: Nobody
-    bio: Nil
+    name: Navadeep
+    bio: EE
     external-image: false
     picture: assets/images/profile.jpg
     twitter: UNavadeep
-#  jamesfoster:
-  #  name: James Foster
-  #  bio: A Man who develops software with coffee
-  #  external-image: false
-  #  picture: assets/images/james.jpg
-  #  twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
