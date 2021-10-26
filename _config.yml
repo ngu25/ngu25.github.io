@@ -1,6 +1,6 @@
 # main text of home
 name: Navadeep Ganesh U
-bio: Electronics seem supercool to me!
+bio: "Electronics seem supercool to me!"
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -53,7 +53,7 @@ github: navadeepganeshu
 email: navadeepganesh.ngu@gmail.com
 
 authors:
-  johndoe:
+  navadeepganeshu:
     name: Navadeep
     bio: Student, EE
     external-image: false
