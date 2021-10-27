@@ -13,8 +13,8 @@ picture: assets/images/profile.jpg
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: false
-#resume-url: resume
+resume-external: true
+resume-url: https://drive.google.com/file/d/1wu45FI0jo0ypR4zPEVhewinnxY4yPUWp/view?usp=sharing
 
 url: https://navadeepganeshu.github.io
 # your url: https://USERNAME.github.io
