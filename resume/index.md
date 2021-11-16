@@ -24,10 +24,10 @@ Physics, Chemistry, Mathematics, Computer Science
 
 ## > Skills 🔧  
 
-#### Embedded Systems, Analog and Power Electronics, Hardware Design.    
+#### Embedded Systems, Hardware Design, Analog and Power Electronics.  
 
 * **Programming:**  C, Python, Verilog.  
-* **Embedded Systems:**  ARM Cortex/MSP430/AVR MCUs, Espressif/nRF52 SoC, FPGAs.  
+* **Embedded Systems:**  ARM Cortex/MSP430/AVR MCUs, Espressif/nRF52 SoC, Xilinx FPGAs.  
 * **Software Tools:**  MATLAB/Simulink, Xilinx Vivado/Vitis, TI CCS, STMCube IDE.  
 * **Design Tools:**  Eagle EDA, KiCAD, LTspice, NI Multisim, Keysight ADS, PSCAD.  
 * **Others:**  Git, LaTeX, WordPress, PowerDirector, Fusion 360.  
@@ -84,10 +84,10 @@ At Element14, I am involved with the community by making projects, writing blogs
 • RoadTested Trinamic TMC2300-IoT-REF Stepper Driver Kit.  
 • Project on designing a Stepper Motor Driver using PSoC4.  
 • RoadTested Trinamic TMCM-0960-MotionPy SBC + Stepper Motor.  
-• RoadTested the MAX77714 Power Management IC Evaluation Module.  
+• RoadTested the MAX77714 Power Management IC Module.  
 
 * **Embedded Systems Hardware Intern** - [Praan] <font size="2">(Aug 2020 – Oct 2021)</font>  
-At Praan, in the Intelligent Systems team, I worked on designing, testing and revising the full-stack embedded systems board with Power, Sensing, Processing and Connectivity units.
+At Praan, in the Intelligent Systems team, I worked on designing, testing and revising the full-stack embedded systems board with Power, Sensing, Processing and Connectivity units.  
 (Tools: Eagle PCB, LTSpice, KiCAD, STMCube IDE)  
 
 * **Summer Intern** - [IISER Bhopal] <font size="2">(May 2021 – Aug 2021)</font>  
@@ -110,8 +110,8 @@ IoT device. Integrated multiple environmental sensors and captured data for test
 At 3D PrintzKart, I was involved in research and development works related to 3D printers and hardware integration. Got exposure and understanding of 3D printing techniques, design, 
 modelling and manufacturing by co-working with the team.  
 
-* **Technical Content Writer** - [PythonPool] <font size="2">(Oct 2019 – Dec 2019)</font>  
-At Latracal Solutions, I worked with PythonPool as a technical content writer and wrote 25+ articles regarding Python programming language and its applications.
+* **Technical Content Writer** - [Python Pool] <font size="2">(Oct 2019 – Dec 2019)</font>  
+At Latracal Solutions, I worked with PythonPool as a technical content writer and wrote 25+ articles regarding Python programming language and its applications.  
 (Tools: WordPress, Yoast SEO, PicsArt)  
 
 ---
@@ -149,11 +149,12 @@ Our team of 3 members won 2nd place in "Tinkering - Design from waste using micr
 
 * **Optimus Omnium** - First Prize Winner [Feb 2020]  
 @Aadhya Techfest - RUAS  
-This competition involved solving cyphers and codes, naming the circuit in the black box, given a list of components or equipment and theories based on which we would have to come up with an invention (fun and crazy) and sell it to the panel. Won a cash prize of 1500 INR for first place.
+This competition involved solving cyphers and codes, naming the circuit in the black box, would have to come up with an invention and sell it to the panel. Won a cash prize of 1500 INR for first place.
 
 [M S Ramaiah University of Applied Sciences]: https://www.msruas.ac.in/  
 [Ambika Padavipoorva Vidlaya]: http://www.ambikavidyalaya.com/  
 [Vishwamangala Primary and High School]: https://www.vinkle.com/schools/vishwamangala-higher-primary-school.html
+[element14 Electronics]: https://community.element14.com/
 [Praan]: https://www.praan.io/  
 [GramworkX]: https://gramworkx.com/  
 [IIT Guwahati]: https://www.iitg.ac.in/ceer/  
