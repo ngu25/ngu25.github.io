@@ -1,35 +1,42 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: ":tools: RoadTest Reviews"
 layout: post
-date: 2016-01-23 22:10
-tag: jekyll
-image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
+date: 2021-12-05
+tag: electronics, makerstuff, element14
+image: https://community.element14.com/e14/assets/main/2021/roadtestLogo.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+description: "My Element14 RoadTest reviews"
 category: project
-author: johndoe
+author: navadeepganeshu
 externalLink: false
 ---
 
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
+[Taiyo Yuden Bluetooth® LE EVK - Review](https://community.element14.com/products/roadtest/rv/roadtest_reviews/866/taiyo_yuden_bluetoot)
 
-Example of project - Indigo Minimalist Jekyll Template - [Demo](https://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
+<img src="https://community.element14.com/resized-image/__size/620x440/__key/roadtestreviewfiles/928adb71dd2646238b1581764a6d9bf6/1462.contentimage_5F00_172163.jpg" width="620" height="440">  
 
----
-
-What has inside?
-
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- Travis
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
+RoadTest: Taiyo Yuden Bluetooth® LE EVK
+Author: navadeepganeshu
+Creation date: 20 Aug 2020
+Evaluation Type: Development Boards & Tools
 
 ---
 
-[Check it out](https://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](https://github.com/sergiokopplin/indigo/issues).
+[Infineon BLDC Shield + XMC 4700 Relax Kit + Motor - Review](https://community.element14.com/products/roadtest/rv/roadtest_reviews/909/infineon_bldc_shield)
+
+<img src="https://community.element14.com/resized-image/__size/487x357/__key/roadtestreviewfiles/b111e23afa66437090c4beaa194a0596/1565.contentimage_5F00_173089.jpg" width="620" height="440">  
+
+RoadTest: Infineon BLDC Shield + XMC 4700 Relax Kit + Motor
+Author: navadeepganeshu
+Creation date: 14 Nov 2020
+Evaluation Type: Development Boards & Tools
+
+---
+
+---
+
+---
+
+---
