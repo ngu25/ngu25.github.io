@@ -19,8 +19,8 @@ externalLink: false
 
 [Taiyo Yuden BLE EVK : Miniature BLE Automation](https://community.element14.com/technologies/embedded/b/blog/posts/taiyo-yuden-ble-evk-miniature-ble-automation)
 
-Author: navadeepganeshu
-Creation date: 22 Aug 2020
+- Author: navadeepganeshu
+- Creation date: 22 Aug 2020
 
 <img src="https://community.element14.com/resized-image/__size/647x269/__key/communityserver-blogs-components-weblogfiles/00-00-00-00-07/3365.contentimage_5F00_151867.jpg" width="620" height="440">
 
@@ -43,8 +43,8 @@ Experimenting with Magnetic Components - Design Challenge
 [Go Discrete : Go Power #2: Building and Testing the Power Converter](https://community.element14.com/challenges-projects/design-challenges/experimenting-with-magnetic-components/b/blog/posts/go-discrete-go-power-2-building-and-testing-the-power-converter)
 
 
-Author: navadeepganeshu
-Creation date: Oct - Nov 2021
+- Author: navadeepganeshu
+- Creation date: Oct - Nov 2021
 
 <img src="https://community.element14.com/resized-image/__size/620x409/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-39/5086.contentimage_5F00_214294.jpg" width="620" height="440">
 <img src="https://community.element14.com/resized-image/__size/479x359/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-39/7446.contentimage_5F00_216140.jpg" width="620" height="440">

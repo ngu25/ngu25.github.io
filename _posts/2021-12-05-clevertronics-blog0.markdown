@@ -7,7 +7,6 @@ headerImage: true
 tag:
 - clevertronics
 - blog
-star: true
 category: blog
 author: navadeepganeshu
 description: My blogs
