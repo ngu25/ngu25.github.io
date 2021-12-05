@@ -1,5 +1,5 @@
 ---
-title: "Analog Electronics Resources-Jim Williams"
+title: "Analog Electronics Resources - Jim Williams"
 layout: post
 date: 2021-12-05
 image: https://www.edn.com/wp-content/uploads/contenteetimes-images-edn-analog-jim-williams-tek-scopes.jpg
@@ -19,10 +19,8 @@ From nowhere in random, I came across this blogspot called [Reading Jim Williams
 
 Some related videos:
 
-<iframe width="560" height="310" src="https://youtu.be/embed/3S-AS86bj4w" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="560" height="310" src="https://youtu.be/embed/w1rVJpejZi4" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="560" height="310" src="https://www.youtube.com/embed/3S-AS86bj4w" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="310" src="https://www.youtube.com/embed/w1rVJpejZi4" frameborder="0" allowfullscreen></iframe>
 
 Jim Williams Bibliography PDF: [http://web.mit.edu/klund/www/jw/jwbib.pdf](http://web.mit.edu/klund/www/jw/jwbib.pdf)
 
