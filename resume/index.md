@@ -91,9 +91,7 @@ At Praan, in the Intelligent Systems team, I worked on designing, testing and re
 (Tools: Eagle PCB, LTSpice, KiCAD, STMCube IDE)  
 
 * **Summer Intern** - [IISER Bhopal] <font size="2">(May 2021 – Aug 2021)</font>  
-Worked under the guidance of Prof. Mitradip Bhattacharjee, EECS Department on the project "Multisensor Integration and LNA Design". I worked on interfacing 4 temperature sensors
-(10K NTC, LM19, LM35, DHT11) onto a microcontroller, logged the data live to Excel and to a smartphone app via Bluetooth. The aim was to analyze responses of each sensor for 
-a common temperature swing and compare, correct the surges to get a smooth output value.  
+Worked under the guidance of Prof. Mitradip Bhattacharjee, EECS Department on the project "Multisensor Integration and LNA Design". Interfaced different types of temperature sensors onto a microcontroller, logged the live data to Excel and to a smartphone app via Bluetooth. The aim was to analyze responses of each sensor for a common temperature swing and compare, correct the surges to get a smooth output value.  
 (Tools: Ardunio, MIT App Inventor)  
 
 * **Research Intern** - [IIT Guwahati] <font size="2">(Sep 2020 – Feb 2021)</font>  
