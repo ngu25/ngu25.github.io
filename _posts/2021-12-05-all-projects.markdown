@@ -17,7 +17,7 @@ author: navadeepganeshu
 externalLink: false
 ---
 
-### [Taiyo Yuden BLE EVK : Miniature BLE Automation](https://community.element14.com/technologies/embedded/b/blog/posts/taiyo-yuden-ble-evk-miniature-ble-automation)
+[Taiyo Yuden BLE EVK : Miniature BLE Automation](https://community.element14.com/technologies/embedded/b/blog/posts/taiyo-yuden-ble-evk-miniature-ble-automation)
 
 - Author: navadeepganeshu
 - Creation date: 22 Aug 2020
@@ -26,7 +26,7 @@ externalLink: false
 
 ---
 
-### [Arty-S7 Workshop Experience: Blazing with Microblaze!](https://community.element14.com/technologies/fpga-group/b/blog/posts/arty-s7-workshop-experience-blazing-with-microblaze)
+[Arty-S7 Workshop Experience: Blazing with Microblaze!](https://community.element14.com/technologies/fpga-group/b/blog/posts/arty-s7-workshop-experience-blazing-with-microblaze)
 
 - Author: navadeepganeshu
 - Creation date: 9 Nov 2020
@@ -36,7 +36,7 @@ externalLink: false
 
 ---
 
-### Experimenting with Magnetic Components - Design Challenge
+[Experimenting with Magnetic Components - Design Challenge](https://community.element14.com/challenges-projects/design-challenges/experimenting-with-magnetic-components/)
 
 [Go Discrete : Go Power #1: Introduction and Plan!](https://community.element14.com/challenges-projects/design-challenges/experimenting-with-magnetic-components/b/blog/posts/go-discrete-go-power-1-introduction-and-plan)
 
