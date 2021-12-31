@@ -4,6 +4,14 @@
    or page.title == "Tags"
 %}{% assign showHeader = true %}{% endif %}
 
+{% for post in site.posts %}	
+	{% for tag in post.tags %}
+		{% if tag == page.tag %}
+			{% assign showMinHeader = true %}
+		{% endif %}
+	{% endfor %}
+{% endfor %}	
+
 {% if showHeader == true %}
     <header class="header-home {% if site.animation %}animated{% endif %}">
         {% if site.about %}
@@ -19,6 +27,18 @@
         <h1 class="title">{{ site.name }}</h1>
         <h2 class="description">{{ site.bio }}</h2>
 
+        {% include social-links.html %}
+		
+		{% if page.title == "Home" %}
+            <img src="assets/images/scopy1.gif">
+        {% endif %}
+		
+    </header>
+{% endif %}
+
+{% if showMinHeader == true %}
+    <header class="header-home {% if site.animation %}animated{% endif %}">
+        <h1 class="title">{{ page.title }}</h1>
         {% include social-links.html %}
     </header>
 {% endif %}
