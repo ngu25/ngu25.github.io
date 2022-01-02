@@ -1,5 +1,5 @@
 ---
-title: "Analog Electronics Resources - Jim Williams"
+title: "Analog Electronics Resources: Jim Williams"
 layout: post
 date: 2021-12-05
 image: https://www.edn.com/wp-content/uploads/contenteetimes-images-edn-analog-jim-williams-tek-scopes.jpg

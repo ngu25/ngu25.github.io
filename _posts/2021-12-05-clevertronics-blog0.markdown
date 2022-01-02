@@ -1,5 +1,5 @@
 ---
-title: "CL3VERTRONICS -- spark something!!!"
+title: "CL3VERTRONICS - spark something!!!"
 layout: post
 date: 2021-12-05
 image: /assets/images/blog/clevertronics_poster.jpg

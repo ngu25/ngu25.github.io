@@ -17,12 +17,20 @@ author: navadeepganeshu
 externalLink: false
 ---
 
-[Taiyo Yuden BLE EVK : Miniature BLE Automation](https://community.element14.com/technologies/embedded/b/blog/posts/taiyo-yuden-ble-evk-miniature-ble-automation)
+[Experimenting with Magnetic Components - Design Challenge](https://community.element14.com/challenges-projects/design-challenges/experimenting-with-magnetic-components/)
+
+[Go Discrete : Go Power #1: Introduction and Plan!](https://community.element14.com/challenges-projects/design-challenges/experimenting-with-magnetic-components/b/blog/posts/go-discrete-go-power-1-introduction-and-plan)
+
+[Go Discrete : Go Power #2: Building and Testing the Power Converter](https://community.element14.com/challenges-projects/design-challenges/experimenting-with-magnetic-components/b/blog/posts/go-discrete-go-power-2-building-and-testing-the-power-converter)
+
 
 - Author: navadeepganeshu
-- Creation date: 22 Aug 2020
+- Creation date: Oct 2021 - Nov 2021
 
-<img src="https://community.element14.com/resized-image/__size/647x269/__key/communityserver-blogs-components-weblogfiles/00-00-00-00-07/3365.contentimage_5F00_151867.jpg" width="620" height="300">
+<img src="https://community.element14.com/resized-image/__size/620x409/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-39/5086.contentimage_5F00_214294.jpg" width="620" height="380">
+<img src="https://community.element14.com/resized-image/__size/479x359/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-39/7446.contentimage_5F00_216140.jpg" width="620" height="380">
+<img src="https://community.element14.com/resized-image/__size/620x320/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-39/6038.contentimage_5F00_216258.jpg" width="620" height="380">
+<img src="https://community.element14.com/resized-image/__size/620x436/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-39/5852.contentimage_5F00_216266.jpg" width="620" height="440">
 
 ---
 
@@ -36,19 +44,22 @@ externalLink: false
 
 ---
 
-[Experimenting with Magnetic Components - Design Challenge](https://community.element14.com/challenges-projects/design-challenges/experimenting-with-magnetic-components/)
-
-[Go Discrete : Go Power #1: Introduction and Plan!](https://community.element14.com/challenges-projects/design-challenges/experimenting-with-magnetic-components/b/blog/posts/go-discrete-go-power-1-introduction-and-plan)
-
-[Go Discrete : Go Power #2: Building and Testing the Power Converter](https://community.element14.com/challenges-projects/design-challenges/experimenting-with-magnetic-components/b/blog/posts/go-discrete-go-power-2-building-and-testing-the-power-converter)
-
+[Taiyo Yuden BLE EVK : Miniature BLE Automation](https://community.element14.com/technologies/embedded/b/blog/posts/taiyo-yuden-ble-evk-miniature-ble-automation)
 
 - Author: navadeepganeshu
-- Creation date: Oct - Nov 2021
+- Creation date: 22 Aug 2020
 
-<img src="https://community.element14.com/resized-image/__size/620x409/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-39/5086.contentimage_5F00_214294.jpg" width="620" height="380">
-<img src="https://community.element14.com/resized-image/__size/479x359/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-39/7446.contentimage_5F00_216140.jpg" width="620" height="380">
-<img src="https://community.element14.com/resized-image/__size/620x320/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-39/6038.contentimage_5F00_216258.jpg" width="620" height="380">
-<img src="https://community.element14.com/resized-image/__size/620x436/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-39/5852.contentimage_5F00_216266.jpg" width="620" height="440">
+<img src="https://community.element14.com/resized-image/__size/647x269/__key/communityserver-blogs-components-weblogfiles/00-00-00-00-07/3365.contentimage_5F00_151867.jpg" width="620" height="300">
+
+---
+
+[Multiutility AgriBot](https://github.com/NavadeepGaneshU/AgriBot_RUASIC2020)
+
+- Author: navadeepganeshu
+- Creation date: Nov 2019 - Feb 2020
+
+<img src="https://github.com/NavadeepGaneshU/AgriBot_RUASIC2020/raw/main/CAD%20Models/Full%20view.jpeg" width="620" height="300">
+
+<iframe width="560" height="310" src="https://www.youtube.com/embed/WSfw8IrvT0Q" frameborder="0" allowfullscreen></iframe>
 
 ---
