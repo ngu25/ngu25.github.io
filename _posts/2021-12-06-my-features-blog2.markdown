@@ -1,5 +1,5 @@
 ---
-title: "#My_Updates"
+title: "My Featured Content⚡"
 layout: post
 date: 2021-12-04
 image: /assets/images/blog/techy_poster.jpeg
@@ -9,7 +9,7 @@ tag:
 - blog
 category: blog
 author: navadeepganeshu
-description: My lifeline updates
+description: Featured contents about projects, career, work etc.
 ---
 
 ---
