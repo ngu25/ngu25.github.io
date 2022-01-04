@@ -17,9 +17,9 @@ description: Featured contents about projects, career, work etc.
 
 <p>Earlier this year, I got an oppportunity to work with feely sponsored RedPitaya STEMLab 125-10 kit. My activities done utilizing this kit got featured at their website on teaching materials page!</p>
 
-<img src="assets/images/projects/rp_featured.png" width="400" height="250">
+<img src="https://navadeepganeshu.github.io/assets/images/projects/rp_featured.png" width="400" height="250">
 
-<p>All RedPitaya projects and related files can be accessed here at this [GitHub Repo](https://github.com/NavadeepGaneshU/redpitaya_student_tryout)</p>
+All RedPitaya projects and related files can be accessed here at this [GitHub Repo](https://github.com/NavadeepGaneshU/redpitaya_student_tryout)
 
 ---
 
