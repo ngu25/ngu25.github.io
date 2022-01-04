@@ -15,9 +15,9 @@ description: Featured contents about projects, career, work etc.
 [Featured on RedPitaya Website - Student Project](https://redpitaya.com/teaching-materials/)  
 <p><i>13th December 2021</i></p>
 
-<p>Earlier this year, I got an oppportunity to work with feely sponsored RedPitaya STEMLab 125-10 kit. My activities done utilizing this kit got featured at thator website on teaching materials page!</p>
+<p>Earlier this year, I got an oppportunity to work with feely sponsored RedPitaya STEMLab 125-10 kit. My activities done utilizing this kit got featured at their website on teaching materials page!</p>
 
-<a href="https://redpitaya.com/teaching-materials/" target="_blank"><img src="assets/images/projects/rp_featured.png" height="400px" width="250px"/></a>
+<img src="assets/images/projects/rp_featured.png" width="400" height="250">
 
 <p>All RedPitaya projects and related files can be accessed here at this [GitHub Repo](https://github.com/NavadeepGaneshU/redpitaya_student_tryout)</p>
 
