@@ -17,8 +17,8 @@ description: Simply to self document and learn from experience :)
 ---
 <p><i>8th January 2022</i></p>
 
-<p>If someone wants to get your attention and you realize it, just give that damn attention and appretiate the seeker well. Its to utmost feeling for the other side although your mind/ego tries to ignore it. Its mutual and we all need it.</p>
-<p>If you want to seek something or so badly ask with someone, just put it straight out as you want it. Our mind tries to cringe or show regret, but its all plain on the other person's side and is clueless what's in our mind. Going straight away to it will far better help that going slowly with ten other hints.</p>
+<p>If someone wants to get your attention and you realize it, just give that damn attention and appretiate the seeker well. Its to utmost feeling for the other side although your mind and ego tries to ignore it. Its mutual and we all need it.</p>
+<p>If you want to seek something or so badly ask with someone, just put it straight out as you want it. Our mind tries to cringe and hide, but its all plain on the other person's side and is clueless what's in our mind. Going straight away to it will far better help that going slowly with ten other hints.</p>
 
 ---
 <p><i>7th January 2022</i></p>
