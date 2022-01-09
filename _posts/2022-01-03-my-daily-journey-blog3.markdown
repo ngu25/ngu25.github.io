@@ -14,6 +14,9 @@ description: Simply to self document and learn from experience :)
 ---
 <p><i>9th January 2022</i></p>
 
+<p>If something doesn't turn out to be on your side and want it so badly, don't leave it there. Think of opportunities in it(be it a worst case scenario) and drop some fish hooks. See if someting gets caught back again.</p>
+<b>If you think you should ask it or not, just ask it. No harm and it only turns out to be a hookup for some opportunity sooner or later!</b>
+
 ---
 <p><i>8th January 2022</i></p>
 
