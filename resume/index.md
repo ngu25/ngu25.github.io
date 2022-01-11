@@ -6,7 +6,9 @@ title: Resume
 # __R É S U M É__
 
 ---
-Download as [PDF]:https://navadeepganeshu.github.io/assets/resume/Navadeep_s_Resume.pdf
+
+Download as [PDF]  
+
 ---
 ## > Education 🎓
 
@@ -162,3 +164,4 @@ This competition involved solving cyphers and codes, naming the circuit in the b
 [Element14 Community]: http://community.element14.com/  
 [Python Pool]: https://www.pythonpool.com/author/navadeep/  
 [Sensors for Agricultural Utility]: https://gramworkx.medium.com/sensors-for-agricultural-utility-an-effective-utilisation-approach-3dee334b1d68
+[PDF]: https://navadeepganeshu.github.io/assets/resume/Navadeep_s_Resume.pdf
