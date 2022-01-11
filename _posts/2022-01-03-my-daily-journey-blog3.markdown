@@ -12,6 +12,17 @@ category: blog
 author: navadeepganeshu
 description: Simply to self document and learn from experience :)
 ---
+<p><i>11th January 2022</i></p>
+
+<p>First time tring to pack the day fully scheduled with distributed activities. Truns out it works good for one half, but there's still underflow and uneaten task pending. Another thing is that when hard timeline and separation is put between tasks, natural tendency is - getting compromised with the work whatsoever is completed and trying to catch up with the schedule. This might not involve verifying, proofing etc., in rush.</p>
+<p>Still writing this in regret of not coping up with the evening's work(11:10pm now,.....awww) Cheers!!!</p> 
+
+---
+<p><i>10th January 2022</i></p>
+
+<p>Stay calm,...stay as fool. Even if the person infront is yelling at you. This makes them feel they're really going strange at you and eventually freeze themselves. Adding from other side will only increase the intensity as no one's ready to give up their ego in anger.</p>
+
+---
 <p><i>9th January 2022</i></p>
 
 <p>If something doesn't turn out to be on your side and want it so badly, don't leave it there. Think of opportunities in it(be it a worst case scenario) and drop some fish hooks. See if someting gets caught back again.</p>
