@@ -3,7 +3,8 @@ layout: default
 title: Resume
 ---
 
-# __R É S U M É__  ####[PDF]:https://navadeepganeshu.github.io/assets/resume/Navadeep_s_Resume.pdf
+# __R É S U M É__
+[PDF]:https://navadeepganeshu.github.io/assets/resume/Navadeep_s_Resume.pdf
 
 ---
 
