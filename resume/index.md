@@ -6,7 +6,9 @@ title: Resume
 # __R É S U M É__
 
 ---
+
 View as [PDF](https://navadeepganeshu.github.io/assets/resume/Navadeep_s_Resume.pdf){:target="_blank" rel="noopener"}  
+
 ---
 ## > Education 🎓
 

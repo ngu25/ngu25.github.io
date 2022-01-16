@@ -12,6 +12,31 @@ category: blog
 author: navadeepganeshu
 description: Simply to self document and learn from experience :)
 ---
+<p><i>16th January 2022</i></p>
+
+
+---
+<p><i>15th January 2022</i></p>
+
+<p>You won't get thoughts unless you interact with people or by simply being outside.</p>
+
+---
+<p><i>14th January 2022</i></p>
+
+<p>Write something when you feel like writing or else you'll end up writing things like this ;)</p>
+
+---
+<p><i>13th January 2022</i></p>
+
+<p>Comfort depends on mentality. If you think you're comfortable, then you are!</p>
+
+---
+<p><i>12th January 2022</i></p>
+
+<p>Jump into the pit and try for the way out. No worries if not suceeded instantly. Can always rest, sleep and retry. The decision to jump into it is of utmost power. Give counter thoughts to the negative thoughts which come meanwhile and its OK to self exaggerate the thoughts.</p>
+<p>Try things in your own way and be the earliest one to put out issue if hit or in sharing the results. Earliest one is earliest one and rest will follow.</p>
+
+---
 <p><i>11th January 2022</i></p>
 
 <p>First time tring to pack the day fully scheduled with distributed activities. Truns out it works good for one half, but there's still underflow and uneaten task pending. Another thing is that when hard timeline and separation is put between tasks, natural tendency is - getting compromised with the work whatsoever is completed and trying to catch up with the schedule. This might not involve verifying, proofing etc., in rush.</p>
@@ -20,7 +45,7 @@ description: Simply to self document and learn from experience :)
 ---
 <p><i>10th January 2022</i></p>
 
-<p>Stay calm,...stay as fool. Even if the person infront is yelling at you. This makes them feel they're really going strange at you and eventually freeze themselves. Adding from other side will only increase the intensity as no one's ready to give up their ego in anger.</p>
+<p>Stay calm,...stay as fool. Even if the person infront is yelling at you. This makes them feel they're really going strange at you and eventually freeze themselves. Adding from other side will only increase the intensity as no one's ready to give up their ego in anger. </p>
 
 ---
 <p><i>9th January 2022</i></p>
