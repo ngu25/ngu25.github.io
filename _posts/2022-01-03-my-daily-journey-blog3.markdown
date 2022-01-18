@@ -12,8 +12,24 @@ category: blog
 author: navadeepganeshu
 description: Simply to self document and learn from experience :)
 ---
+<p><i>19th January 2022</i></p>
+
+---
+<p><i>18th January 2022</i></p>
+
+<p>Pause, think and act when you're rude. Decisions made at that instant is irreversible as both the parties will be at high-ego. Or dare to bring down your ego and correct the situation later on! If none, situation will end up like IND-PAK</p>
+
+---
+<p><i>17th January 2022</i></p>
+
+<p>Do that thing which you think you can't do!<p>
+<p>Sounds like a high level philosophical thought, isn't it? But the way out is to do little by little and trying to be a part of it by making it as a habit. It might be as simple as signing up over email for a volunteering position to a NGO or agreeing to present 4 webinars and rest will gradually follow up in nature's sequence.</p>
+
+---
 <p><i>16th January 2022</i></p>
 
+<p>Isn't doing the work consistently for a longer span of time better than finshing it up at a really quick pace too early or very lately?</p>
+<p>Its told that by doing something for a span of 21 days consistently, you can master anything! or someone told it 20 hrs in a TED talk</p>
 
 ---
 <p><i>15th January 2022</i></p>
