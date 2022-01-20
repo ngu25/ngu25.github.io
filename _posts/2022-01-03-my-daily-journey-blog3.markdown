@@ -12,7 +12,19 @@ category: blog
 author: navadeepganeshu
 description: Simply to self document and learn from experience :)
 ---
+<p><i>21st January 2022</i></p>
+
+---
+<p><i>20th January 2022</i></p>
+
+<p>If you knew the box, which you have to open, just go for it and start to scratch the surface. No matter how large the key!</p>
+<p>This is it -- if you want to go and you don't see the path, still keep going, even if you unfortunately don't know the destination. The fact that you want to go should drive it all! Turns out the effort is worth it even if you hit the wrong destination because you don't know what the destination is!!!</p>
+
+---
 <p><i>19th January 2022</i></p>
+
+<p>What I ideally thought: If you are into something important, stay on track, keep yourself on it hard, let whatever happens in world...</p>
+<p>What I again thought I should be doing: Yes, keep yourself hard on the task, but at the same time stay compatible with the world and be in syc with events around. This helps and a lot in all fronts. Afterall we are here in the world, for thw world and highly influenced by the own surroundings.</p> 
 
 ---
 <p><i>18th January 2022</i></p>
