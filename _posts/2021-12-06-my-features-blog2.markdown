@@ -58,12 +58,11 @@ All my RedPitaya projects and related files are at this [GitHub Repo](https://gi
 
 <p> This is the prize won on one of the earlier monthly wishings!<p>
 
-<img src="https://navadeepganeshu.github.io/assets/images/projects/pynq_giveaway.jpeg" width="600" height="350">
+<img src="https://navadeepganeshu.github.io/assets/images/projects/pynq_giveaway.jpeg" width="600" height="600">
 
-[Contest Link](https://events.hackster.io/xcellent)
+[Contest Link](https://events.hackster.io/xcellent)  
 
-
----
+---  
 
 [On Twitter!!!](https://twitter.com/AngadDaryani/status/1429903843001716750)
 <p><i>24th August 2021</i></p>
