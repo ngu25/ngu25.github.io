@@ -29,7 +29,7 @@ description: Simply to self document and learn from experience :)
 ---
 <p><i>18th January 2022</i></p>
 
-<p>Pause, think and act when you're rude. Decisions made at that instant is irreversible as both the parties will be at high-ego. Or dare to bring down your ego and correct the situation later on! If none, situation will end up like IND-PAK</p>
+<p>Pause, think and act when you're rude. Decisions made at that instant is irreversible as both the parties will be at high-ego. Or dare to bring down your ego and correct the situation later on! If none, situation will end up like IND-PAK.</p>
 
 ---
 <p><i>17th January 2022</i></p>
@@ -41,7 +41,7 @@ description: Simply to self document and learn from experience :)
 <p><i>16th January 2022</i></p>
 
 <p>Isn't doing the work consistently for a longer span of time better than finshing it up at a really quick pace too early or very lately?</p>
-<p>Its told that by doing something for a span of 21 days consistently, you can master anything! or someone told it 20 hrs in a TED talk</p>
+<p>Its told that by doing something for a span of 21 days consistently, you can master anything! or someone told it 20 hrs in a TED talk.</p>
 
 ---
 <p><i>15th January 2022</i></p>
@@ -56,7 +56,7 @@ description: Simply to self document and learn from experience :)
 ---
 <p><i>13th January 2022</i></p>
 
-<p>Comfort depends on mentality. If you think you're comfortable, then you are!</p>
+<p>Comfort depends on mentality. If you think you're comfortable, then you are!.</p>
 
 ---
 <p><i>12th January 2022</i></p>
@@ -91,7 +91,7 @@ description: Simply to self document and learn from experience :)
 <p><i>7th January 2022</i></p>
 
 <p>I hurry too much to close my browsed tabs before the job gets done........</p>
-<p>(Ctrl + Shift + T) turns out to be the ultimate saviour</p>
+<p>(Ctrl + Shift + T) turns out to be the ultimate saviour.</p>
 
 ---
 <p><i>6th January 2022</i></p>

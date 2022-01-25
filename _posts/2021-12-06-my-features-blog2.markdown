@@ -42,6 +42,29 @@ All my RedPitaya projects and related files are at this [GitHub Repo](https://gi
 
 ---
 
+<p><i>3rd December 2021</i></p>
+
+<p> Received PLECS Combo + PLECS Coder Trial License for 6 months under a LinkedIn giveaway by PLEXIM. </p>
+
+<p>"Congratulation you have been selected as a winner of the PLECS Combo Give-Away. Thank you for participating in the Give-Away"</p>
+
+---
+
+<p><i>1st December 2021</i></p>
+
+<p>The month of December is the "Month of Giving" in Xilinx Big Xcellent Adventure and each Friday they are randomly selecting adventurers in one of five categories and rewarding them with surprise Xilinx gift bags.</p>
+
+<p>"Congratulations! You are one of the lucky winners from our fourth week of giving. This week we chose you and four other adventurers from our "trailblazers" category to win a surprise Xilinx gift. Kudos on completing at least four activities from each land on the game map!"</p>
+
+<p> This is the prize won on one of the earlier monthly wishings!<p>
+
+<img src="https://navadeepganeshu.github.io/assets/images/projects/pynq_giveaway.jpeg" width="600" height="350">
+
+[Contest Link](https://events.hackster.io/xcellent)
+
+
+---
+
 [On Twitter!!!](https://twitter.com/AngadDaryani/status/1429903843001716750)
 <p><i>24th August 2021</i></p>
 
