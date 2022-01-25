@@ -56,13 +56,12 @@ All my RedPitaya projects and related files are at this [GitHub Repo](https://gi
 
 <p>"Congratulations! You are one of the lucky winners from our fourth week of giving. This week we chose you and four other adventurers from our "trailblazers" category to win a surprise Xilinx gift. Kudos on completing at least four activities from each land on the game map!"</p>
 
-<p> This is the prize won on one of the earlier monthly wishings!<p>
+[Contest Link](https://events.hackster.io/xcellent)
 
 <img src="https://navadeepganeshu.github.io/assets/images/projects/pynq_giveaway.jpeg" width="600" height="600">
 
-[Contest Link](https://events.hackster.io/xcellent)  
-
----  
+<p> This is the prize won on one of the earlier monthly wishings!<p>
+---
 
 [On Twitter!!!](https://twitter.com/AngadDaryani/status/1429903843001716750)
 <p><i>24th August 2021</i></p>
