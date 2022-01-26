@@ -66,7 +66,7 @@ All my RedPitaya projects and related files are at this [GitHub Repo](https://gi
 
 <p><i>24th August 2021</i></p>
 
-[On Twitter!!!](https://twitter.com/AngadDaryani/status/1429903843001716750)
+[On Twitter](https://twitter.com/AngadDaryani/status/1429903843001716750)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Meet Navadeep - he’s from a small village in Kerala &amp; started working with Praan as an intern at 17. He’s single handedly,designed &amp; built 4 of our core embedded IoT boards. He lives on a farm w 4 cows. N has to travel to a neighbouring village to pick up the parts we send him🚀 <a href="https://t.co/7e9MGRIHol">pic.twitter.com/7e9MGRIHol</a></p>&mdash; Angad Daryani (@AngadDaryani) <a href="https://twitter.com/AngadDaryani/status/1429903843001716750?ref_src=twsrc%5Etfw">August 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
