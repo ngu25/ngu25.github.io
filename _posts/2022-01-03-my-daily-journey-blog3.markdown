@@ -1,5 +1,5 @@
 ---
-title: "My Daily Journey🚀"
+title: "Daily Thoughts🚀"
 layout: post
 date: 2022-01-03
 image: /assets/images/blog/techy_poster.jpeg
@@ -11,6 +11,37 @@ tag:
 category: blog
 author: navadeepganeshu
 description: Simply to self document and learn from experience :)
+---
+
+p><i>31st January 2022</i></p>
+
+<p>Doing and repeating what is already done isn't dumb at all! It can still be scalable and the feel in making it your way is charming.... </p>
+<p>Mr.Analog would have done it in a very better way, but only he knows his real journey and the steering pointers he had taken. Doing at your side gives your side of experience and kick!</p>
+
+---
+
+<p><i>30th January 2022</i></p>
+
+<p>Synthesizing is important. We have everything we (dont)need at the easiest reach and the tool which helps in synthesizing things is a pro. Between, you can also be your own synthesizer!</p>
+
+---
+
+<p><i>29th January 2022</i></p>
+
+<p>Content! And more content! With internet being up for 20+ years and counting, it isn't hard to find the required content. But getting required content is quite hard. Finding is not getting and because its easy to find something, but a lot of distractions, issues, constraints come up on the way of getting it into your arsenal.</p>
+
+---
+
+<p><i>28th January 2022</i></p>
+
+<p>Got an idea? Excited? Hold on a while, think in other dimensions, from someone else's standpoint etc., before springing up and executing it. This really helps make things fault tolerant and provides long shelf-life to the idea.</p>
+
+---
+
+<p><i>27th January 2022</i></p>
+
+<p>Someone told -- to get people come your way, you should genuinely fall in interest with what they do. Might work, but at the same time I feel this has to be done not with the goal of getting people your way. Else that genuinity doesn't exist! So you can't give dumb advice like this to the people.</p>
+
 ---
 
 <p><i>26th January 2022</i></p>
@@ -136,7 +167,7 @@ description: Simply to self document and learn from experience :)
 <p><i>4th January 2022</i></p>
 
 <p>Consistency and long term patience is the key. Be it towards achieving target or investment in stock market. Because it is that you only realize benefit of it when you see a zoomed out version of past in very future, no one tends to care about it.</p>
-<p>An opportunity or request comes to you suddenly and if you don't know what to respond, just say OK or YES! Rest always turns out to be good. Our mind may say NO because there is no instant gratification out of it. </p>
+<p>An opportunity or request comes to you suddenly and if you don't know what to respond, just say OK or YES! Rest always turns out to be good. Our mind may say NO because there is no instant gratification out of it.</p>
 
 ---
 
