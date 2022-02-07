@@ -7,7 +7,7 @@ title: Resume
 
 ---
 
-View [PDF](https://navadeepganeshu.github.io/resume/Navadeep_s_Resume.pdf){:target="_blank" rel="noopener"}  
+View [PDF](https://navadeepganeshu.github.io/resume/Navadeep_Resume.pdf){:target="_blank" rel="noopener"}  
 
 ---
 ## > Education 🎓
