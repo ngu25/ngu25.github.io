@@ -13,7 +13,13 @@ author: navadeepganeshu
 description: Simply to self document and learn from experience :)
 ---
 
-p><i>31st January 2022</i></p>
+<p><i>1st February 2022</i></p>
+
+<p>Networking, Influence takes the matter to next level. But how to get it? Speak, Praise, Talk in terms of the benefit of other side.</p>
+
+---
+
+<p><i>31st January 2022</i></p>
 
 <p>Doing and repeating what is already done isn't dumb at all! It can still be scalable and the feel in making it your way is charming.... </p>
 <p>Mr.Analog would have done it in a very better way, but only he knows his real journey and the steering pointers he had taken. Doing at your side gives your side of experience and kick!</p>
