@@ -12,6 +12,19 @@ category: blog
 author: navadeepganeshu
 description: Simply to self document and learn from experience :)
 ---
+<p><i>8th February 2022</i></p>
+
+<p> </p>
+---
+
+<p><i>7th February 2022</i></p>
+
+<p> No harm in jumping into conversations randomly with strangers. Get to know, tell about you, bring that loop into the conversation and try to drop a hook. By 'hook' I mean anything -- be it for an opportunity you're looking for. Be it for getting your content out for publicity, or maybe a simple praise and thanks for conversating.</p>
+<p> > Saw some students who got to the bus at the same stop with me and turns out they're freshers and I got to share a Electronics Club enrollment form!</p>
+<p> > Just told the conductor of the new electric-bus that it is supercool and very comfortable to travel. He got super happy!</p>
+<p> > Went to a shopkeeper asking for 500rs cash in exchange to online payment to 500rs. Turns out he disagreed and demanded 525rs for 500rs cash. Got nothing to excite the randon shopkeeper. Could have nudged something though,....Not everytime it works!</p>
+
+---
 
 <p><i>1st February 2022</i></p>
 
