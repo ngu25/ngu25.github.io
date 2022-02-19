@@ -14,7 +14,7 @@ description: Simply to self document and learn from experience :)
 ---
 <p><i>8th February 2022</i></p>
 
-<p> </p>
+<p></p>
 ---
 
 <p><i>7th February 2022</i></p>
