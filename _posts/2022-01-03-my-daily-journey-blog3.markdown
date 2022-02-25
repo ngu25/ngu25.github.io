@@ -12,10 +12,11 @@ category: blog
 author: navadeepganeshu
 description: Simply to self document and learn from experience :)
 ---
-<p><i>8th February 2022</i></p>
+<p><i>25th February 2022</i></p>
 
-<p></p>
----
+<p>Tracking is a next level skill and everyone should try it. Tracking everything from tasks, decisions we make to money will bring a sense to things we make and seepage of time, effort and money can be captured. 50% + of times, we tend to sleepwalk with these things as habits and tracking can bring most of them to context. It can simply start from installing a Digital Wellbeing plug-in to android phone to see how many notifications have poked you that day and how many times you've unlocked, app usage stats etc. These stats are seemingly suprising every time I look at!</p>
+
+--
 
 <p><i>7th February 2022</i></p>
 
