@@ -12,6 +12,19 @@ category: blog
 author: navadeepganeshu
 description: Simply to self document and learn from experience :)
 ---
+
+<p><i>7th March 2022</i></p>
+
+<p></p>
+
+---
+
+<p><i>6th March 2022</i></p>
+
+<p> Choices: Is it good to do a work half an hour each day forever consistently or start with 2 hours a day thinking about continuing forever, but eventually leading to a burnout. Excitement is real while kickstarting. How to hold on with that and eventually harness that excitement for consistently yielding the result? </p>
+
+---
+
 <p><i>25th February 2022</i></p>
 
 <p>Tracking is a next level skill and everyone should try it. Tracking everything from tasks, decisions we make to money will bring a sense to things we make and seepage of time, effort and money can be captured. 50% + of times, we tend to sleepwalk with these things as habits and tracking can bring most of them to context. It can simply start from installing a Digital Wellbeing plug-in to android phone to see how many notifications have poked you that day and how many times you've unlocked, app usage stats etc. These stats are seemingly suprising every time I look at!</p>
