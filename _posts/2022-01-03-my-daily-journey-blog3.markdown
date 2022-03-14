@@ -13,9 +13,22 @@ author: navadeepganeshu
 description: Simply to self document and learn from experience :)
 ---
 
-<p><i>7th March 2022</i></p>
+<p><i>14th March 2022</i></p>
 
 <p></p>
+
+---
+
+<p><i>14th March 2022</i></p>
+
+<p>How to control saturation? Came across someting interesting, looked over it, kindof understood and that then connected to chain of contents finally making me feel that I do not remember where it all started and why am I even doing it!</p>
+<p>Pause, get extracts, rethink, note down(most under-rated) and maybe schedule some of it for future. Content is easy to consume -- we often tend to sleepwalk with many of these activities in a generic flow which world/crowd/surroundings follows. Isn't that sick?</p>
+
+---
+
+<p><i>11th March 2022</i></p>
+
+<p>With Great Responsibility, Comes Great Power(inverse of what uncle ben told) holds true? Getting the accountability on ourselves is (not)hard, as self tries to stay away from it. We want to sit, relax warm in a nice soft couch -- but getting up and taking a run around streets can open up some unexpected possibilities which might turn out to be good.</p>
 
 ---
 
