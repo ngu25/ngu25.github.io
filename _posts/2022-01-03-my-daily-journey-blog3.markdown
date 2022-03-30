@@ -10,12 +10,34 @@ tag:
 - blog
 category: blog
 author: navadeepganeshu
-description: Simply to self document and learn from experience :)
+description: Simply to self document and learn from experience. Closed space until you're really curious :)
+---
+<p><i>30th March 2022</i></p>
+
+<p>If you do not know what to say, just say you do not... These's an option. Why utter something cluttered looking confused and try to patch up things. And if you don't know what to do, pause, ask for suggestions, relate it, apply and proceed. (you is I and I need to learn it by applying it in situations)</p>
+
 ---
 
-<p><i>14th March 2022</i></p>
+<p><i>28th March 2022</i></p>
+<p>Given words can't be taken back. We tend to make further statements to counter previously made ones. Don't promise when you're confused, suprised or encountered an unexpected situation. Hold on, give it a second, think about it and approach to a decision. Taking a suggestion from someone in midst will really help.</p>
 
-<p></p>
+---
+
+<p><i>25th March 2022</i></p>
+
+<p>Follow up is important to keep something on loop if you need to. Be it after a meeting or a conversation, asking a new question or simply saying thanks referring to the context takes the trust, bond to a next level!</p>
+
+---
+
+<p><i>24th March 2022</i></p>
+
+<p>Met Arul boss today. Next level person with that cheerfulness coming from inside always:) Banana-Walnut cakes are really delicious!!!</p>
+
+---
+
+<p><i>19th March 2022</i></p>
+
+<p>Met 2 great friends, YM and AD today @BLR. More than having a large network, its important to stay in touch, updated with with great people and ones who have helped you, trusted you at some point of time. I feel its easy to get connections, but hard to maintain and stay in sync with for a long time. Need to be very thoughtful about it. This is real.</p>
 
 ---
 
