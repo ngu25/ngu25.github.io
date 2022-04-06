@@ -11,6 +11,43 @@ tag:
 category: blog
 author: navadeepganeshu
 description: Simply to self document and learn from experience. Closed space until you're really curious :)
+
+---
+
+<p><i>6th April 2022</i></p>
+
+<p>If someone is curious about you, your work or sort of it,..you seriously shouldn't neglect the situation or leave it in a smile. Just ask about their thirst, try to share what you can. Think of it -- would you approach someone or ask soemthing just for no reason or for fun? Likely not. So you too give counter curiosity and consider it.</p>
+
+--
+
+<p><i>5th April 2022</i></p>
+
+<p>Not expressing opinions thinking you're small, indominant to the other is not right I think. Just say what you need, what you think, what you do and it really boils down things a lot. And above all, don't try to simplify things to make it sound cool or 'not so rigid'. It will likely be misunderstood on the other side.</p>
+
+---
+
+<p><i>4th April 2022</i></p>
+
+<p>Trying to control a feeling sucks. That entity you're trying to control compounds over and over and makes you think more about it when you're controlling. Just express it and let whatsoever turn out! Anyways worthier than keeping it in :| </p>
+
+---
+
+<p><i>3rd April 2022</i></p>
+
+<p>What do you do when you're put in a group of people who talk a lot, but nothing makes sense to you or ever understandable,...</p>
+
+---
+
+<p><i>2nd April 2022</i></p>
+
+<p>This seems to be true for me! And you? Naval said "Money solves money problems"</p>
+
+---
+
+<p><i>1st April 2022</i></p>
+
+<p>Think of it -- would you spend your time, effort, money for someone without expecting anything? Be super thankful to people who help you without any expectations and strive to give back or contribute in some way... </p>
+
 ---
 <p><i>30th March 2022</i></p>
 
@@ -199,7 +236,7 @@ description: Simply to self document and learn from experience. Closed space unt
 <p><i>9th January 2022</i></p>
 
 <p>If something doesn't turn out to be on your side and want it so badly, don't leave it there. Think of opportunities in it(be it a worst case scenario) and drop some fish hooks. See if someting gets caught back again.</p>
-<b>If you think you should ask it or not, just ask it. No harm and it only turns out to be a hookup for some opportunity sooner or later!</b>
+<b>If you think you should ask it or not, just ask it. No harm and it only turns out to be a hookup for some opportunity sooner or later!</b>  
 
 ---
 
