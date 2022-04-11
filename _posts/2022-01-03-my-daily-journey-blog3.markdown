@@ -14,6 +14,25 @@ description: Simply to self document and learn from experience. Closed space unt
 
 ---
 
+<p><i>11th April 2022</i></p>
+
+<p>Some days are chill, some are hard, some are suprising. But today was so much inspiring listening to Kumar. Lots to learn from you 🙏. Lots to learn from people arond us -- we just don't get to know unless we stay super kind and heartly. </p>
+
+---
+
+<p><i>10th April 2022</i></p>
+
+<p>Got into a situation of blindly saying 'yes' and then never turned up for it. Also happened couple of times before. Why did I sleepwalk with that answer? That's again a sleepwalk. Ugh,...I am just trying to sort out myself.</p>
+
+---
+
+<p><i>9th April 2022</i></p>
+
+<p>Just wondering how terrible I am at concentrating at one particular thing. Man,..this kills, hurts when you realize.</p>
+<p> The Heart of Rose: Concentrate at the centre of rose, admire its texture, breauty, colourfulness, fragnance and eventually you will grow focused, calm, stronger, relaxed and will enjoy a sense of joyfulness with small tings around you -- The Monk Who Sold his Ferrari by Robin Sharma</p>
+
+---
+
 <p><i>6th April 2022</i></p>
 
 <p>If someone is curious about you, your work or sort of it,..you seriously shouldn't neglect the situation or leave it in a smile. Just ask about their thirst, try to share what you can. Think of it -- would you approach someone or ask soemthing just for no reason or for fun? Likely not. So you too give counter curiosity and consider it.</p>
