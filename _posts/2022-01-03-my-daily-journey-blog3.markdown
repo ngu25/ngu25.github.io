@@ -13,6 +13,28 @@ author: navadeepganeshu
 description: Simply to self document and learn from experience. Closed space until you're really curious :)
 
 ---
+<p><i>13th April 2022</i></p>
+
+<p>Thanks Naval! Here is my message to:</p>
+<p>10 year old self: Dude, seriously? Don't care or listen to anything specific. Like this suggestion or sort of shits. Let the organs grow. Stay natural and don't try to manipulate anything(especially WhiteHat Jr coding). You're all set back then.</p>  
+
+<p>15 year old self: Try to come out of 'I am still young to do things of my own -- will do it later' bubble. Talk a lot, talk to diverse set of people. Explore everything and don't stick to a thing thinking I am doing this for all my life seeing only a cricket match or football over TV. Everyone want's be famous, rich and that's why celebraties fall into our eyes first. Think of struggles, read books, a lot of them and learn about people, what made them to be the person you admire at! Things are not going to be easy neither that hard for next set of years.</p>  
+
+<p>20 year old self: Just 20.6 now. Have learnt quite a bit in this couple of years. Try to do things your own way and never mind about whats around. But also have a sense of what's going on. This phase in life is of intense learning -- be it education, about people or life(much more to come). So start learning whatever turns you ON. Be it anything from History to Finance to Science to Engineeering. Seems like things are flipping a lot. Everyone needs to know a bit of everyting and its all running interdisciplinary. Multitask, stay tuned to something streamlined and have a specification tag. You see people younger and of your age winning the world -- try to learn from them, stay tuned to what's trending and mainly and majorly "don't sleepwalk with desires" and making of decisions.</p>  
+
+---
+
+<p><i>13th April 2022</i></p>
+
+<p>When you move at your own direction -- probably out of herd, things around start seeming strange. Everything seems over beurocratic, unnecessary tiresomes, mundane stuffs and a lot more as things can't change easily as you have changed. This kills. Try to covery your idea or why do you think so to bring change in the things around. Else it will stay generic, forever generic.</p>
+
+---
+
+<p><i>12th April 2022</i></p>
+
+<p>People around you won't like you going out of herd. You can go alone if you want and once you start to do so, just leave back the herd's mentality. Not always you'll find this good. Herd helps a lot at times else you need to work super hard for making things done.</p>
+
+---
 
 <p><i>11th April 2022</i></p>
 
