@@ -16,11 +16,11 @@ description: Simply to self document and learn from experience. Closed space unt
 <p><i>13th April 2022</i></p>
 
 <p>Thanks Naval! Here is my message to:</p>
-<p>10 year old self: Dude, seriously? Don't care or listen to anything specific. Like this suggestion or sort of shits. Let the organs grow. Stay natural and don't try to manipulate anything(especially WhiteHat Jr coding). You're all set back then.</p>  
+<p><b>10 year old self:</b> Dude, seriously? Don't care or listen to anything specific. Like this suggestion or sort of shits. Let the organs grow. Stay natural and don't try to manipulate anything(especially WhiteHat Jr coding). You're all set back then.</p>  
 
-<p>15 year old self: Try to come out of 'I am still young to do things of my own -- will do it later' bubble. Talk a lot, talk to diverse set of people. Explore everything and don't stick to a thing thinking I am doing this for all my life seeing only a cricket match or football over TV. Everyone want's be famous, rich and that's why celebraties fall into our eyes first. Think of struggles, read books, a lot of them and learn about people, what made them to be the person you admire at! Things are not going to be easy neither that hard for next set of years.</p>  
+<p><b>15 year old self:</b> Try to come out of 'I am still young to do things of my own -- will do it later' bubble. Talk a lot, talk to diverse set of people. Explore everything and don't stick to a thing thinking I am doing this for all my life seeing only a cricket match or football over TV. Everyone want's be famous, rich and that's why celebraties fall into our eyes first. Think of struggles, read books, a lot of them and learn about people, what made them to be the person you admire at! Things are not going to be easy neither that hard for next set of years.</p>  
 
-<p>20 year old self: Just 20.6 now. Have learnt quite a bit in this couple of years. Try to do things your own way and never mind about whats around. But also have a sense of what's going on. This phase in life is of intense learning -- be it education, about people or life(much more to come). So start learning whatever turns you ON. Be it anything from History to Finance to Science to Engineeering. Seems like things are flipping a lot. Everyone needs to know a bit of everyting and its all running interdisciplinary. Multitask, stay tuned to something streamlined and have a specification tag. You see people younger and of your age winning the world -- try to learn from them, stay tuned to what's trending and mainly and majorly "don't sleepwalk with desires" and making of decisions.</p>  
+<p><b>20 year old self:</b> Just 20.6 now. Have learnt quite a bit in this couple of years. Try to do things your own way and never mind about whats around. But also have a sense of what's going on. This phase in life is of intense learning -- be it education, about people or life(much more to come). So start learning whatever turns you ON. Be it anything from History to Finance to Science to Engineeering. Seems like things are flipping a lot. Everyone needs to know a bit of everyting and its all running interdisciplinary. Multitask, stay tuned to something streamlined and have a specification tag. You see people younger and of your age winning the world -- try to learn from them, stay tuned to what's trending and mainly and majorly "don't sleepwalk with desires" and making of decisions.</p>  
 
 ---
 
@@ -277,7 +277,7 @@ description: Simply to self document and learn from experience. Closed space unt
 <p><i>9th January 2022</i></p>
 
 <p>If something doesn't turn out to be on your side and want it so badly, don't leave it there. Think of opportunities in it(be it a worst case scenario) and drop some fish hooks. See if someting gets caught back again.</p>
-<b>If you think you should ask it or not, just ask it. No harm and it only turns out to be a hookup for some opportunity sooner or later!</b>  
+<p>If you think you should ask it or not, just ask it. No harm and it only turns out to be a hookup for some opportunity sooner or later!</p>  
 
 ---
 
