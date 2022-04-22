@@ -13,6 +13,46 @@ author: navadeepganeshu
 description: Simply to self document and learn from experience. Closed space until you're really curious :)
 
 ---
+
+<p><i>22nd April 2022</i></p>
+
+<p>I can 100% trust the person who tells about or shows own mistake, suffering and gives pointers to improve. 99% of things we see daily are just good moments of one's day or just portraited as good moment of one's day. Social media is the ++ among them. Just a few dope shots, a few more, ah,...come on, only a few more.</p>
+
+---
+
+<p><i>21st April 2022</i></p>
+
+<p>I do not defend when I know I am wrong. It may be a bit of compromising your ego, but I don't want to be dumb to everyone around but me thinking I have sucessfully hidden the mistake.</p>
+<p>Use sorry if its just about feelings, use sorry and tell why and how it happened if something has caused because of it, use that Aha! and convey how you could avoid it in future, improve and fix the current mistake if someone tries to point it out and guides.</p>
+<p>Sometimes I make mistakes without realizing it. What then?</p>
+
+---
+
+<p><i>20th April 2022</i></p>
+
+<p>If you know you want to do or you don't want to do surely, hold on it being unbiased to what's going on around. But was that judgement mature enough?</p>
+
+---
+
+<p><i>18th April 2022</i></p>
+
+<p>You can get the authority. You can be at that position. You can hold that responsibility. Its all on how you utilize it, how well you spread ideas, knowledge, thoughts to people around with that power.</p>
+<p>You can be a teacher and just teach, test, evaluate and go on. Or you can also do that process optimally by engaging with, having some activities, passively evaluating and making sure it reached out well and many more.</p>
+
+---
+
+<p><i>17th April 2022</i></p>
+
+<p>If you are thinking about something and getting no idea on what, how, yes/no -- just speak up. There are always people around you and you'll get insights/answers. Never mind what they think, beacuse no one thinks that you have asked it after you ask as much as you...</p>
+
+---
+
+<p><i>15th April 2022</i></p>
+
+<p>Its easy to get your time sputtered and used for nothing, or infact used for something which means nothing. Why? Why isn't it the other way around naturally?</p>
+
+---
+
 <p><i>13th April 2022</i></p>
 
 <p>Thanks Naval! Here is my message to:</p>
