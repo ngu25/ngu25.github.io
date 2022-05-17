@@ -14,6 +14,42 @@ description: Simply to self document and learn from experience. Closed space unt
 
 ---
 
+<p><i>17th May 2022</i></p>
+
+<p> Quick fixes are common all aroud. Focusing on a short term, quick bucks plan is common all around. Its nothing to be a problem, but its just not scalable or compunding most of the time. While thinking of long term and planning something, people hardly trust themsleves and and no one aroud cases as there is no fruit. One who stays in this ballpark for a while, generates and builds self trust and keeps straight on it is likey to reap compounded benefits after a while. At this time, the same people around will think that the bro is lucky and got into a overnight success.... Having self trust and belief in what youre planning and doing is seemingly the key and keep on it, just keep on it.</p>
+
+<p>Its common to see someone judge you based on one occurence sometime and even though you're not that now, you've left that impression on other side. What to do? The best I do is ignore to be on that side and if things come closeby, I just tell them -- that's not how it is now and have come long way away.</p>
+
+<p>Some people are irritating. Moreover there's a correction -- you're irritating to them likely. Or you're so ill minded to think its irritating. Its all on what you think and how you semm to be. Ok, coming back -- if someone is irritating, see why is it. Some people just keep complaining, keep asking  you for help which is 'googleable', keep bothering you with silly reasons and what not! Think why? Ask why? Act on it than staying silent.</p>
+
+<p>Complaining is not the solution. Morons keep doing it,....but see, try to find why is it? Give a second to think of solution, roadmap or what pointers could be brrought to bypass it, slash over it or convince and workaround to bring up a solution. As famously told "Stich in time saves nine".</p>
+
+<p>If you're into something and feel its dry -- be it a online meeting, chat with friends, a planning or sort, then it is definitely dry for you. Try to add value to it if you think so and the critical thing is to follow up. Follow up after talks, after action point discussion, after reading, after project planning or after just a casual chat. This will get things reinforced just like you need to cure the concrete after poring it to build buildings to stay rough and tough.</p>
+
+<p>dont drop thing quick, take time to decide, if you say no, its no</p>
+
+<p>environment is important, surroundings influence. cities kids exposure</p>
+
+---
+
+<p><i>15th May 2022</i></p>
+
+<p>Its been quite sometime now since I wrote here. Around 3 weeks, I was nowhere ON. Was into learing embedded systems, BMS stuff and semester exams coming up. Not busy, but this was just out of priority. Wasn't getting that spark to write something here and I was trying to slip myself off from this to avoid procrastinating that I haven't written anything here. Trying to get a hang of it as a habit, but not forcefully. But now -- here we go,....</p>
+
+<p>Sometimes I get this burst of interest or thirst for doing something. One of them is reading about peoples thoughts, experiences, writing down information. This may be after I watch a YouTube video(like today I saw children's science fair event -- aboslutely staggered to see what they are doing), a movie rarely or a book!  It makes me pause, think what's going on, what I can do and so on,....</p>
+
+---
+
+<p>Bro! Why are there so many content creators out there :: Its absolutely staggering to see people making podcasts, interviews and all spend good old time watching it and doing nothing(majority). Who is building products? Who is bringing services? I am sure one who does and have plans doesn't really watch a lot of these. Its like a ferrari story -- they don't adverise as people who can afford it aren't infornt of TV all the time! It just feels good to watch these and comment as 'Inspirational'. The one who creates content makes some quick bucks with no brainy thing going around. Just get something, synthesize and broadcast - a labour job.</p>
+
+---
+
+<p><i>14th May 2022</i></p>
+
+<p>Came across a LinkedIn post and someone was saying that Indian software engineers and vast spread and prime movers in US industry bit there is 0 Indian software procuct(as of now). Why? Its really thinkstriking! A large part of comment section conplained that education  system is wrecked(good old joke) and one comment which nearly made sense is that we people look at 'low hanging fruit' meaing a quick short term plan/idea to be happy(mostly to earn). It maybe because of mindset from past, our environment and culture. We are strictly and throughly made to have a hierarchy in a system. Respect older people(ofcourse do), don't go against them, don't give counter talks to them, follow what they day and so on. We like to be ruled. Ancestoral mentality was same, we were ruled by Britishher's for a long time and now still feel good to be in that mindset(a large herd of us). Makes sense, but what can we do? Its definitely changing.</p>
+
+---
+
 <p><i>22nd April 2022</i></p>
 
 <p>I can 100% trust the person who tells about or shows own mistake, suffering and gives pointers to improve. 99% of things we see daily are just good moments of one's day or just portraited as good moment of one's day. Social media is the ++ among them. Just a few dope shots, a few more, ah,...come on, only a few more.</p>
@@ -22,7 +58,7 @@ description: Simply to self document and learn from experience. Closed space unt
 
 <p><i>21st April 2022</i></p>
 
-<p>I do not defend when I know I am wrong. It may be a bit of compromising your ego, but I don't want to be dumb to everyone around but me thinking I have sucessfully hidden the mistake.</p>
+<p>I do not defend when I know I am wrong. It may be a bit of compromise to my ego, but I don't want to be dumb to everyone around but me thinking I have sucessfully hidden the mistake.</p>
 <p>Use sorry if its just about feelings, use sorry and tell why and how it happened if something has caused because of it, use that Aha! and convey how you could avoid it in future, improve and fix the current mistake if someone tries to point it out and guides.</p>
 <p>Sometimes I make mistakes without realizing it. What then?</p>
 
