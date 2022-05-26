@@ -14,6 +14,12 @@ description: Simply to self document and learn from experience. Closed space unt
 
 ---
 
+<p><i>26th May 2022</i></p>
+
+<p>Watched 'Blinded By The Light'. Absolutely great movie. What an art - pleasing, silent, smooth and very touching (https://en.wikipedia.org/wiki/Blinded_by_the_Light) and lots to learn. If you know youre doing right, take accountability, risk upon and just keep moving. Consistency is important, never mind what others think of you, your work or whatsoever. Aim, work, keep on it, present it to the commons and rest will be seen.</p>
+
+---
+
 <p><i>17th May 2022</i></p>
 
 <p> Quick fixes are common all aroud. Focusing on a short term, quick bucks plan is common all around. Its nothing to be a problem, but its just not scalable or compunding most of the time. While thinking of long term and planning something, people hardly trust themsleves and and no one aroud cases as there is no fruit. One who stays in this ballpark for a while, generates and builds self trust and keeps straight on it is likey to reap compounded benefits after a while. At this time, the same people around will think that the bro is lucky and got into a overnight success.... Having self trust and belief in what youre planning and doing is seemingly the key and keep on it, just keep on it.</p>
@@ -26,9 +32,7 @@ description: Simply to self document and learn from experience. Closed space unt
 
 <p>If you're into something and feel its dry -- be it a online meeting, chat with friends, a planning or sort, then it is definitely dry for you. Try to add value to it if you think so and the critical thing is to follow up. Follow up after talks, after action point discussion, after reading, after project planning or after just a casual chat. This will get things reinforced just like you need to cure the concrete after poring it to build buildings to stay rough and tough.</p>
 
-<p>dont drop thing quick, take time to decide, if you say no, its no</p>
-
-<p>environment is important, surroundings influence. cities kids exposure</p>
+<p>Environment influences us a lot! A lot infact. What's the difference between being at IIT and say a tier 3 university? Its the people, peers, network. The elite ones are putting efforts in somthing or the other. Doesn't matter where, in what area - but working hard is super important. This gives a sense of competition, awareness in general and keeps someone on track.</p>
 
 ---
 
