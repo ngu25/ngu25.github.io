@@ -14,6 +14,13 @@ description: Simply to self document and learn from experience. Closed space unt
 
 ---
 
+<p><i>30th May 2022</i></p>
+
+<p>I have a huge confusion in making this judgement - Is it ok to go unfair/against rules/cheat in a situation when you're not able to move in a legitemate path towards the result? I see many around me who are in my same page doing it. But should I? Is it unfair me not doing it?</p>
+
+<p>I fell better when I share my trouble/pain to someone and listenting whatever they say. Many times people tend to normalize me down even it was my fault that caused pain. Keeping it in makes me think more about it, and think that I am thinking more about it - running into a feedback loop of pain in mind.<p>
+
+---
 <p><i>26th May 2022</i></p>
 
 <p>Watched 'Blinded By The Light'. Absolutely great movie. What an art - pleasing, silent, smooth and very touching (https://en.wikipedia.org/wiki/Blinded_by_the_Light) and lots to learn. If you know youre doing right, take accountability, risk upon and just keep moving. Consistency is important, never mind what others think of you, your work or whatsoever. Aim, work, keep on it, present it to the commons and rest will be seen.</p>
