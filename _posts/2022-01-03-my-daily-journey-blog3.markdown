@@ -13,6 +13,42 @@ author: navadeepganeshu
 description: Simply to self document and learn from experience. Closed space until you're really curious :)
 
 ---
+<p><i>10th July 2022</i></p>
+
+<p>Some good learnings and mixed experiences working and with life. Keys:</p>
+<p>Look at the mind hungry tasks to work. Everyone can do sleepwalking tasks.</p>
+<p>Act on things. Be it wrong or you don't have clue how to do it. Start  it and there's always people who can help the one who starts and shows interest + effort.</p>
+<p>If something is not assigned to you which you think should have, someone just thought you're not capable or legible. Just not mind too much and work on  improving at it so that you can changge that view, improve and take up next time. Everything is for a reason and there's always people who are more experienced around you.</p>
+<p>This thing I lack a lot - Hop on and talk to people. Build relationships and stay active on conversation ocassionally. This takes things way farther, more than you can ever imagine and in an organization, it opens up so much possibilities for your growth and holstic goodness. So next time, jum onto a conversation and speak up.</p>
+<p>No one cares if you don't speak up. Put out your feelings, share and communicate. You can put hours of effort to work and try to learn new things and stay shut or conversate  with people, tell what you're doing, ask ideas and suggestions, feel holistic and learn. This somewhat makes others feel that your'e not just dumb and actually alive doing something.</p>
+<p>Take some time out to spare out of doing mainstream work, do some other sidetask and then jump back. This one I think work good for me. Given one work, I can keep on it whole day doing something - but if I do something else pairing with a task, I get a sense of productiveness and efficiency as I switch once I am bore with one or stuck somewhere.</p>
+<p>While stuck on something or don't know what to do, hold on and scatterfocus out of it. Take  a pen-paper and write down your steps to realize what you're thinking and doing. Once with me it was so dumb that I was trying to get a feature working building from scratch eventually unfuncional just to realize that the same feature is alreaby built-in and sample code is given in documentation which I have already read sleepwalking through and was just infromt of my eyes. So scatterfocus and just calm down for a while s you can spread attention around spheres.</p>
+
+---
+
+<p><i>1st July 2022</i></p>
+
+<p>When someone asks you something, its not because theyr'e dumb or jobless or need you - its just that they want to know something from you and couragesour enough to ask up! Think of it for a while and answer appropriately. Likewise when you have something in mind, just ask up....most underrated thng ever. Ask , ask for help, for excuse or for a chance. Who knows what turns out!!! If not immediately, they'll remember you for future chances.</p>
+
+---
+
+<p><i>7th June 2022</i></p>
+
+<p>You simply can't reject something with no reason. Justification is important and this provides a sens eof assurance and trust for both the parties. If something is in your mind, put it out.</p>
+
+---
+
+<p><i>6th June 2022</i></p>
+
+<p>Got to meet some cool people at the company. You can't judge someone or something from a look. Sometimes people can be very friendly and sometimees not. If not, that doesn't specifically mean they're closed - but its just not the right time. Or try again.</p>
+
+---
+
+<p><i>5th June 2022</i></p>
+
+<p>Day before entering to a real job - like corporate for me. Hold not too much expectations anytime.</p>
+
+---
 
 <p><i>30th May 2022</i></p>
 
