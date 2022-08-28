@@ -13,6 +13,19 @@ author: navadeepganeshu
 description: Simply to self document and learn from experience. Closed space until you're really curious :)
 
 ---
+<p><i>28th August 2022</i></p>
+
+<p>Think for a moment before you talk or approach a problem. Getting into and thinking may be inefficient or unnecessary things may slip in. Some people may be good at both, but I just run into a feedback loop "Damn! I am stuck and what will people think if I don't answer/approach this rightly and mind stalls"....</p>
+
+<p>Take pauses while speaking to think if you're going ok! Go to other person's stand and view what you have just said. If you don't know - its ok to take a pause again, think and tackle the situation. Don't overthink what may be going on other people's mind and how bad/good they may be thinking about you.</p>
+
+<p>Sometimes people may think you're crazy if you're too confident or too nervous or too fast in speaking. Do not exaggerate or include unreal stuff in the conversation just to make it seem more sugary. It is easy to catch up and reveal for a trained person. If it slips in speed of the moment, just take it back and correct yourself immediately.</p>
+
+<p>Give attentaion to minor details. I cannot do this enough.... Apparently it turns out how well you know a thing is by how basically you can tell about that. Its not easy, but if made an habit - a lot of sleepwalking is avoided. Don't stop at it when the purpose is achieved if there's still more detail to look for.</p>
+
+<p>If you know that you should not do something, yet you're dragged there by mind or by situation - make that thing hard to find or difficult to do. Shouldn't open an app frequently? Uninstall it or move it out of home screen(yes, these days there's app for each thing and everything)</p>
+
+---
 <p><i>10th July 2022</i></p>
 
 <p>Some good learnings and mixed experiences working and with life. Keys:</p>
