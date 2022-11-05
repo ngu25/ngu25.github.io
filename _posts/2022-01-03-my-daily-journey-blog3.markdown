@@ -14,6 +14,10 @@ description: Simply to self document and learn from experience. Closed space unt
 
 ---
 
+
+
+---
+
 <p><i>30th August 2022</i></p>
 
 <p>Did a dumb job? Things didn't work as it has to? Hung up in a totally irrelevant situation? and many more happenes every day.... One thing that can help out here is to hold yourself straight up - be confident to justify what your're doing and what has happened - apologise as we take wrong turns many turns - let not anyone judge you or don't mind if that happens. Speaking up about it confidently brought myself out of these situations and helped fix it many times. But yes, its not easy to speak up or justify all the time. Get into many such situations, realize you're in it(never sleepwalk with situations) self enhance and over time its all ok! </p>
