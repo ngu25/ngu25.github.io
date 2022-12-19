@@ -16,6 +16,12 @@ resume: true
 resume-external: false
 resume-url: resume
 
+# If you want to include your rnr, set to true
+# and specify source (external or local).
+rnr: true
+rnr-external: false
+rnr-url: rnr
+
 url: https://navadeepganeshu.github.io
 # your url: https://USERNAME.github.io
 
