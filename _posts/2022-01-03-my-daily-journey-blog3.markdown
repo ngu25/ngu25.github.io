@@ -16,8 +16,7 @@ description: Simply to self document and learn from experience. Closed space unt
 
 <p><i>5th November 2022</i></p>
 
-<p>This is the second movie I am writing about here. "The Intern" - amazing movie with lessons in each scene. Push the boundaries. Be up for any type of  work. Move ahead of expectations. Know about people with you - be at work or a trip or amywhere. Show kindness, behave gentle and be consistent in actions. Take situational opportunities, may seem wrong - but if it gives an opportunity to explore or understand soemthing, its certainly right.
-</p>
+<p>This is the second movie I am writing about here. "The Intern" - amazing movie with lessons in each scene. Push the boundaries. Be up for any type of  work. Move ahead of expectations. Know about people with you - be at work or a trip or amywhere. Show kindness, behave gentle and be consistent in actions. Take situational opportunities, may seem wrong - but if it gives an opportunity to explore or understand soemthing, its certainly right.</p>
 
 
 -----
@@ -481,5 +480,3 @@ description: Simply to self document and learn from experience. Closed space unt
 <p>Just out of Control Systems exam today. Feedback is important - seek for it at every point, think how i can add value to the people who have trusted, helped and blindly believed.</p>
 <p>Learning to remember is shit! Take note of things that can't be remembered and invest in thinking + solving. Start with it even by knowing nothing on it and dare to scratch heads, make no progress but still keep on it.</p>
 <p>Remember the past friendly evens and don't hesitate to make someone comfortable even if you get nothing out of it(unless you lose something). But at the same time don't hesitate to say 'no' or lie if it kills your resource.</p>
-
------
