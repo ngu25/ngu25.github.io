@@ -20,7 +20,7 @@ title: Relaxation & Recuperation
     background-repeat:no-repeat;
     background-position:10px center;
     border-radius:3px;
-    background-image:url('http://badges.strava.com/logo-strava-echelon.jpg');"
+    background-image:url('https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/323_Strava_logo-512.png');"
   target="_clean">
   Follow me on
   <img src="https://i2.wp.com/badges.strava.com/logo-strava.jpg"
