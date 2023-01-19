@@ -3,7 +3,7 @@ layout: default
 title: Relaxation & Recuperation
 ---
 
-# __R & R__
+# __🚴__
 
 ---
 

@@ -12,7 +12,12 @@ category: blog
 author: navadeepganeshu
 description: Simply to self document and learn from experience. Closed space until you're really curious :)
 ---
+### The Other Mindset
+<p><i>17th January 2023</i></p>
 
+<p></p>
+
+-----
 <p><i>5th November 2022</i></p>
 
 <p>This is the second movie I am writing about here. "The Intern" - amazing movie with lessons in each scene. Push the boundaries. Be up for any type of  work. Move ahead of expectations. Know about people with you - be at work or a trip or amywhere. Show kindness, behave gentle and be consistent in actions. Take situational opportunities, may seem wrong - but if it gives an opportunity to explore or understand soemthing, its certainly right.</p>
