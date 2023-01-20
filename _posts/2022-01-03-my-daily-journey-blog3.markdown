@@ -11,26 +11,30 @@ tag:
 category: blog
 author: navadeepganeshu
 description: Simply to self document and learn from experience. Closed space until you're really curious :)
+<!---comments-->
 ---
 
-<!---### Kickstarting the Game-->
+
+### Kickstarting the Game
 <p><i>19th January 2023</i></p>
 
 <p>Over last coupe of weeks, I got to meet some super enthusiastic cyclists. All they are is consistent and everyone started from ground zero. Was part of Sagar - an Ironman trilaton India finisher's troop in a weekly event organized by Cult. One good tip I got is: Work incrementally, equip yourself incrimentally depending on the taste you like. Mountain biking? Road biking? Both? getting gears to help in efficient rides etc... All neeeded is just to start, keep sticking to the personal motive and upgrading he says.</p>
 
 -----
 
-<!---### The Reputation Game-->
+### The Reputation Game
 <p><i>17th January 2023</i></p>
 
 <p>People suddenly start to pay attention when a brand name is attached to someone or a product. This is happening to be a typical tendency of us - sleepwalking with things and not actually evaluating. But above all in first palce, its not easy or free to get attached with a brand name and the effort goes in getting there. Involvement of nepotism is pure crap here, but that's not very common. For example: IITian getting into a great company(not by payscale I say, but by the business and product they do) who do not have any knowledge on the domain even though there are plentiful lower tier university people scattered. A product incubated at IISc or some DST funded lab stepping into market smoothly whereas other super impactul innovations going fail... we have seen many of these around. It all comes down to work put at some point of time in life - be it to about hard work and tireless practice at 17year age to get into good university or a good research and patent with an organizations or simply who you have decide to have a coffee with! Nothing comes free, easy or out of blues - if so, there is a certain struggle right ahead.</p>
 
 -----
 
-<!--- ### A Nice Read -->
+### A Nice Read
 <p><i>15th December 2022</i></p>
 
 <p>What a great read! Build by Tony Fadell. One thing which I can resonate with is good and bad a-holes at workplace or studyplace. Some people can be very good infront of you, with  you and flip the bit as soon as you're out. Totally out of co-ordiation and as if 'never mind' then. A nice blog is here on this - https://9to5mac.com/2022/05/03/tony-fadell-book-build/ </p>
+
+[website]: https://9to5mac.com/2022/05/03/tony-fadell-book-build/
 
 -----
 
