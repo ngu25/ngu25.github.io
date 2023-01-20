@@ -11,9 +11,7 @@ tag:
 category: blog
 author: navadeepganeshu
 description: Simply to self document and learn from experience. Closed space until you're really curious :)
-<!---comments-->
 ---
-
 
 **Kickstarting the Game**
 <p><i>19th January 2023</i></p>
