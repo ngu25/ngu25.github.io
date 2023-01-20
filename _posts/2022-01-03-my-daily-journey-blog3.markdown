@@ -32,9 +32,7 @@ description: Simply to self document and learn from experience. Closed space unt
 ### A Nice Read
 <p><i>15th December 2022</i></p>
 
-<p>What a great read! Build by Tony Fadell. One thing which I can resonate with is good and bad a-holes at workplace or studyplace. Some people can be very good infront of you, with  you and flip the bit as soon as you're out. Totally out of co-ordiation and as if 'never mind' then. A nice blog is here on this - https://9to5mac.com/2022/05/03/tony-fadell-book-build/ </p>
-
-[website]: https://9to5mac.com/2022/05/03/tony-fadell-book-build/
+<p>What a great read! Build by Tony Fadell. One thing which I can resonate with is good and bad a-holes at workplace or studyplace. Some people can be very good infront of you, with  you and flip the bit as soon as you're out. Totally out of co-ordiation and as if 'never mind' then. A nice blog is here on this - https://9to5mac.com/2022/05/03/tony-fadell-book-build/
 
 -----
 
