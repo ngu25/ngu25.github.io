@@ -13,6 +13,14 @@ author: navadeepganeshu
 description: Simply to self document and learn from experience. Closed space until you're really curious :)
 ---
 
+### As much friction as it seems - no, not!
+<p><i>26th January 2023</i></p>
+
+<p>Signed up for the Republic Day health awareness ride in the campus. Extreme friction to start for it - was told to assemble by 630am infront of IISc main building and me trying to go live for the day at 545am with alarm screaming and sitting in the bed thinking what next....go or not...FOMO! It was all till jumping out of the bed and post quick referesh, stiting on the saddle. The excitement grows then to see what's up and meet some new people through the ride. Was a fun one to say - never thought something like this could be  organized and 40+ people appeared. Tasted something which felt like beetroot milkshake after the ride and met Harish once again. </p>
+
+<p>Somehow I like reading biographies and staring at documentaries. Watched 'Trust No One(2022)' the other day - story of crypto exchange in Canada and what turned out! Now into the book writte by his wife post his death starting to realize what had happened. So far a nice one telling what was up with her uptil mid 20s and damn, the culture is so different - so much so on the flip side of what I am into,...haha. Not excited about such one though - too much of unnecessary risks and headaches before trying to know self. By the way, the book is 'Bitcoin Widow'</p>
+
+-----
 ### Kickstarting the Game
 <p><i>19th January 2023</i></p>
 
