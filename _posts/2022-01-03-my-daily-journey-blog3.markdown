@@ -13,14 +13,23 @@ author: navadeepganeshu
 description: Simply to self document and learn from experience. Closed space until you're really curious :)
 ---
 
+### Confusing decisions - Y/N/Maybe
+<p><i>2nd February 2023</i></p>
+
+<p>Got a new cycle couple of days ago. UT EDGE ET3 and its a nice one. The decision making part almost kills. Is it worth getting one? Am I legible to afford that? Is there any defects in this pre-owned cycle? All these doubts come up and easy decsion by the mind is 'Maybe'. Just like people say 'It depends' in tech meetings. How to take right decision at this point? Mind tries to put itself in comfort always by mostly saying 'No' for risky/out of normal decisions. But is it really correct? Someone said risk-reward is a combo. Ah! total confusion now and I am biased.</p>
+<p>Flip side, I made the deal and turns out it's totally worth it now. Need to wait and see for more....</p>
+
+-----
+
 ### As much friction as it seems - no, not!
 <p><i>26th January 2023</i></p>
 
 <p>Signed up for the Republic Day health awareness ride in the campus. Extreme friction to start for it - was told to assemble by 630am infront of IISc main building and me trying to go live for the day at 545am with alarm screaming and sitting in the bed thinking what next....go or not...FOMO! It was all till jumping out of the bed and post quick referesh, stiting on the saddle. The excitement grows then to see what's up and meet some new people through the ride. Was a fun one to say - never thought something like this could be  organized and 40+ people appeared. Tasted something which felt like beetroot milkshake after the ride and met Harish once again. </p>
 
-<p>Somehow I like reading biographies and staring at documentaries. Watched 'Trust No One(2022)' the other day - story of crypto exchange in Canada and what turned out! Now into the book writte by his wife post his death starting to realize what had happened. So far a nice one telling what was up with her uptil mid 20s and damn, the culture is so different - so much so on the flip side of what I am into,...haha. Not excited about such one though - too much of unnecessary risks and headaches before trying to know self. By the way, the book is 'Bitcoin Widow'</p>
+<p>Somehow I like reading biographies and staring at documentaries. Watched 'Trust No One(2022)' the other day - story of crypto exchange in Canada and what turned out! Now into the book written by his wife post his death starting to realize what had happened. So far a nice one telling what was up with her uptil mid 20s and damn, the culture is so different - so much so on the flip side of what I am into,...haha. Not excited about such one though - too much of unnecessary risks and headaches before trying to know self. By the way, the book is 'Bitcoin Widow'</p>
 
 -----
+
 ### Kickstarting the Game
 <p><i>19th January 2023</i></p>
 
