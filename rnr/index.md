@@ -23,7 +23,7 @@ title: Relaxation & Recuperation
     background-image:url('https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/323_Strava_logo-512.png');"
   target="_clean">
   Follow me on
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Strava_Logo.svg/2560px-Strava_Logo.svg.png"
+  <img src="https://ucarecdn.com/0f99ccf9-07ee-4e3c-88ba-99e857a77ec3/-/stretch/off/-/resize/3000x/-/quality/lighter/"
        alt="Strava"
        style="margin-left:2px;vertical-align:text-bottom;"
        height="13"
