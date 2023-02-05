@@ -1,10 +1,16 @@
 ---
-layout: default
-title: Relaxation & Recuperation
----
-
-# __🚴__
-
+title: "__🚴__"
+layout: post
+date: 
+image: /assets/images/blog/cycling_poster.jpg
+headerImage: true
+tag:
+- cycling
+- MTB
+- outdoorsy
+category: blog
+author: navadeepganeshu
+description: 
 ---
 
 <div class="textwidget">
