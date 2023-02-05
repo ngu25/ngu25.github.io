@@ -3,7 +3,7 @@ title: "__🚴__"
 layout: post
 date: 
 image: /assets/images/blog/cycling_poster.jpg
-headerImage: true
+headerImage: false
 tag:
 - cycling
 - MTB
