@@ -20,7 +20,7 @@ title: Relaxation & Recuperation
     background-repeat:no-repeat;
     background-position:10px center;
     border-radius:3px;
-    background-image:url("https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/323_Strava_logo-512.png");"
+    background-image:url('https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/323_Strava_logo-512.png');"
   target="_clean">
   Follow me on
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Strava_Logo.svg/2560px-Strava_Logo.svg.png"
@@ -72,7 +72,7 @@ title: Relaxation & Recuperation
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d259245.36592572715!2d77.53642122255525!3d12.921451656809028!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae152a2bf0bf2b%3A0x97e9eb792d8502d0!2sBTM%20lake!5e0!3m2!1sen!2sin!4v1675602530477!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 #### Bannerghatta - Champakadhama Gudda
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9078.51577437285!2d77.575721748299!3d12.813507042511134!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9f9b2abdc4499f72!2sChampakadhama%20Gudda%20Bannerughatta!5e1!3m2!1sen!2sin!4v1675602588079!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3890.456802745326!2d77.57268391463518!3d12.813731490959581!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae6be0baaab8a5%3A0x9f9b2abdc4499f72!2sChampakadhama%20Gudda%20Bannerughatta!5e0!3m2!1sen!2sin!4v1675603349251!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ---
 <p> Drop your suggestions in the comment! </p>
