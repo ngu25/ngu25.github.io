@@ -13,6 +13,22 @@ author: navadeepganeshu
 description: Simply to self document and learn from experience. Closed space until you're really curious :)
 ---
 
+### Spectrum race
+<p><i>18th March 2023</i></p>
+
+<p>That cool green campus, calmness from all city chaos - who wouldn't want to rool the wheels and bike around the campus? Likewise was this race organized by IISc cycling club. First of its kind for me who started cycling some 6months ago and had never participated in race although did some 100km rides. It's gets its own vibes - competition, some adrenaline rush and that fear within. t rained off season previous night and the race was quite scary. I witnessed maximum anount of crashes ever including a scooter guy who hit his brakes immediately and spinned off after noticing bunch of us passing through in a turn.</p>
+<p>Some things you realize after exposing yourself to it. I had no clue about racing, strategy and communication with teammates. It was extremenly exciting starting off and first lap was a slow one to understand the track and teammates. Couple of champions joined the race - Aditya, Atharv and it was amazing looking at their endurance and power. Ended up 4th in this race averaging at around 24.4kmph speed for over 30kms. I certainly look forward to participate in more of these races although off-road MTB trails excite me more.</p>
+
+-----
+
+### All the way home!
+<p><i>8th March 2023</i></p>
+
+<p>Yesterday was fear,...yes literally. When you're attached to something and it's on danger, the gut won't stay silent. Somehow randomly decided to take my cycle Edge ET-3 to home by bus. All was good until the bus conductor showed up at the pickup point and said No space for your bike! Me in the middle of the road at Yeahvanthpur junction stranded - but after some convincing and showing cool quick release of front weel feature, it was put on top of the bus. I was literally hearing the cycle bumping and no sleep inside :| Inner peace destroyed and at the next pitstop, I decide to cimb upto the top and tie it with couple of more ropes. All set, Manglaluru at 545am and ready to rock to home ;)</p>
+<p>It was fun overall although had to book an expensive bus with large carriage space while way back. Some things are realizied after trying and turns out this one was quite out of craze.</p>
+
+-----
+
 ### Confusing decisions - Y/N/Maybe
 <p><i>2nd February 2023</i></p>
 
