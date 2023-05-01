@@ -13,6 +13,26 @@ author: navadeepganeshu
 description: Simply to self document and learn from experience. Closed space until you're really curious :)
 ---
 
+### Rocket boys 1,2 binge watch...lot of essence?
+<p><i>01st May 2023</i></p>
+
+<p> We always see people who are successful mostly come from reputed education, employment background. But what makes it so is probably the environment they're bound to, seeing people around doing something out of mediocrity and the legacy continues. All it takes is dare to imagine things an start it - reference to Homi, Sarabhai and background of IISc, Cambridge.</p>
+
+<p>If something is envisoned and needs to get started, it is seen that the person doesn't care about resources, money, funds or all of that. They're catalysts ofcourse, but souldn't stop from getting the needle moved - reference to the inception of nuclear, space program.</p>
+
+<p> Sometimes you'e to be extremely controversial, go against all of it, and afterall the sign of greatness is being convoluted. Despite of all the headwids, fear of losing reputation, death a choice has to be made to be the self chosen - reference to Homi's strong talks with american authorities.</p>
+
+<p>One common thing seen is that the creator of the technology is bound to keep things secret, be selfish for making money, pride, hold reputation and all of that. It is very much seen that america being the creator of a lot of technological advances, holds that pride and at the same time tries to protect its intellectual whatever the effect may be and tries to hold up in the competition by War, murder or anything. This is seen in daily life too and is a nature of us. But in midst, shouldn't mercy, empathy, kindness come in atleast to a small extent? I feel so strongly. Reference to Shastri's, Homi's death and continuous monitoring of india's nuclear program by CIA.</p>
+
+<p>There can be a bug within your system flying unnoticed. Its often necessary to be open to listen to a diverse set of things, acknowledge everything and make own judgement.</p>
+
+-----
+### Share? Be silent? Achievements
+<p><i>10th April 2023</i></p>
+
+<p>There are different types of people coming to achievements and sharing about it. Someone may be  silent passive and filthy rich and someone may be in the process of becoming so and actibely sharing about their steps. And some others who feel like they've done everthing enough and just being a social media streak sharing all necessary unnecessarythings. Its interesting to see when someone shares about things like "roadmap", "10 ways to get xxxx" etc but I personally believe its unique for everyone and shouldn't just over follow someone or get too much motivated. We sometimes get stuck in that content consumpton loop and do nothing about it. But there are some generic things which people share to be aware of while one wants to go a long way ahead beacuse some things are usually certain which many don't realize or know! This is one interesting share: https://blog.samaltman.com/how-to-be-successful </p>
+
+-----
 ### Spectrum race
 <p><i>18th March 2023</i></p>
 
