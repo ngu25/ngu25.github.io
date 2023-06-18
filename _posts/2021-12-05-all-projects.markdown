@@ -19,7 +19,7 @@ externalLink: false
 
 [At the Core - Design Challenge](https://community.element14.com/challenges-projects/design-challenges/at-the-core-design-challenge/)
 
-[Blog 1 to 5 - Final Part of the series](https://community.element14.com/challenges-projects/design-challenges/at-the-core-design-challenge/b/blog/posts/atthecore-blog-5---brining-altogether-tmulti-core-deployment-and-application)
+[Blog 1 to 5 - Final part of the series](https://community.element14.com/challenges-projects/design-challenges/at-the-core-design-challenge/b/blog/posts/atthecore-blog-5---brining-altogether-tmulti-core-deployment-and-application)
 
 - Author: navadeepganeshu
 - Creation date: Mar 2023 - May 2023
