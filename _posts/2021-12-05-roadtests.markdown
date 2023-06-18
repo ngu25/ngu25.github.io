@@ -17,24 +17,25 @@ author: navadeepganeshu
 externalLink: false
 ---
 
-[Taiyo Yuden Bluetooth® LE EVK - Review](https://community.element14.com/products/roadtest/rv/roadtest_reviews/866/taiyo_yuden_bluetoot)
+[Summer of FPGAs: MAX77714 Multichannel PMIC EVM - Review](https://community.element14.com/products/roadtest/rv/roadtest_reviews/1482/summer_of_fpgas_max7)
 
-<img src="https://community.element14.com/resized-image/__size/620x440/__key/roadtestreviewfiles/928adb71dd2646238b1581764a6d9bf6/1462.contentimage_5F00_172163.jpg" width="620" height="440">  
+<img src="https://community.element14.com/resized-image/__size/784x798/__key/roadtestreviewfiles/81c8c8af6ae44f1f94afed260b463590/0045.contentimage_5F00_214814.jpg" width="620" height="440">
+<img src="https://community.element14.com/resized-image/__size/620x546/__key/roadtestreviewfiles/81c8c8af6ae44f1f94afed260b463590/6825.contentimage_5F00_214816.png" width="620" height="440">  
 
-- RoadTest: Taiyo Yuden Bluetooth® LE EVK
+- RoadTest: Summer of FPGAs: MAX77714 Multichannel PMIC EVM
 - Author: navadeepganeshu
-- Creation date: 20 Aug 2020
-- Evaluation Type: Development Boards & Tools
+- Creation date: 25 Sep 2021
+- Evaluation Type: Power Supplies
 
 ---
 
-[Infineon BLDC Shield + XMC 4700 Relax Kit + Motor - Review](https://community.element14.com/products/roadtest/rv/roadtest_reviews/909/infineon_bldc_shield)
+[Trinamic TMCM-0960-MotionPy SBC + Stepper Motor - Review](https://community.element14.com/products/roadtest/rv/roadtest_reviews/970/trinamic_tmcm-0960-m)
 
-<img src="https://community.element14.com/resized-image/__size/487x357/__key/roadtestreviewfiles/b111e23afa66437090c4beaa194a0596/1565.contentimage_5F00_173089.jpg" width="620" height="440">  
+<img src="https://community.element14.com/resized-image/__size/614x409/__key/roadtestreviewfiles/33be7a122d904767b153736ccb6da2f4/2273.contentimage_5F00_208830.jpg" width="620" height="440">  
 
-- RoadTest: Infineon BLDC Shield + XMC 4700 Relax Kit + Motor
+- RoadTest: Trinamic TMCM-0960-MotionPy SBC + Stepper Motor
 - Author: navadeepganeshu
-- Creation date: 14 Nov 2020
+- Creation date: 23 May 2021
 - Evaluation Type: Development Boards & Tools
 
 ---
@@ -50,25 +51,24 @@ externalLink: false
 
 ---
 
-[Trinamic TMCM-0960-MotionPy SBC + Stepper Motor - Review](https://community.element14.com/products/roadtest/rv/roadtest_reviews/970/trinamic_tmcm-0960-m)
+[Infineon BLDC Shield + XMC 4700 Relax Kit + Motor - Review](https://community.element14.com/products/roadtest/rv/roadtest_reviews/909/infineon_bldc_shield)
 
-<img src="https://community.element14.com/resized-image/__size/614x409/__key/roadtestreviewfiles/33be7a122d904767b153736ccb6da2f4/2273.contentimage_5F00_208830.jpg" width="620" height="440">  
+<img src="https://community.element14.com/resized-image/__size/487x357/__key/roadtestreviewfiles/b111e23afa66437090c4beaa194a0596/1565.contentimage_5F00_173089.jpg" width="620" height="440">  
 
-- RoadTest: Trinamic TMCM-0960-MotionPy SBC + Stepper Motor
+- RoadTest: Infineon BLDC Shield + XMC 4700 Relax Kit + Motor
 - Author: navadeepganeshu
-- Creation date: 23 May 2021
+- Creation date: 14 Nov 2020
 - Evaluation Type: Development Boards & Tools
 
 ---
 
-[Summer of FPGAs: MAX77714 Multichannel PMIC EVM - Review](https://community.element14.com/products/roadtest/rv/roadtest_reviews/1482/summer_of_fpgas_max7)
+[Taiyo Yuden Bluetooth® LE EVK - Review](https://community.element14.com/products/roadtest/rv/roadtest_reviews/866/taiyo_yuden_bluetoot)
 
-<img src="https://community.element14.com/resized-image/__size/784x798/__key/roadtestreviewfiles/81c8c8af6ae44f1f94afed260b463590/0045.contentimage_5F00_214814.jpg" width="620" height="440">
-<img src="https://community.element14.com/resized-image/__size/620x546/__key/roadtestreviewfiles/81c8c8af6ae44f1f94afed260b463590/6825.contentimage_5F00_214816.png" width="620" height="440">  
+<img src="https://community.element14.com/resized-image/__size/620x440/__key/roadtestreviewfiles/928adb71dd2646238b1581764a6d9bf6/1462.contentimage_5F00_172163.jpg" width="620" height="440">  
 
-- RoadTest: Summer of FPGAs: MAX77714 Multichannel PMIC EVM
+- RoadTest: Taiyo Yuden Bluetooth® LE EVK
 - Author: navadeepganeshu
-- Creation date: 25 Sep 2021
-- Evaluation Type: Power Supplies
+- Creation date: 20 Aug 2020
+- Evaluation Type: Development Boards & Tools
 
 ---
