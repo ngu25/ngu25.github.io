@@ -13,6 +13,19 @@ author: navadeepganeshu
 description: Simply to self document and learn from experience. Closed space until you're really curious :)
 ---
 
+### Something out of nowhere!
+<i>30th May 2023</i>
+
+I was browsing through titanic ship story - invoked by a recent titan vessel implosion and reading through few of the artefacts recovered from the titanic ship site sunk in 1912, violin seemed a very intersting one. It was reported to be made of rosewood and looks very intact still. Got to know that it wasn't recovered from the sea, but from the body of the musician who played it during the search operation 10 days after the tragedy. Interesting fact was that the  group of musicians continued to play the violin as the ship sunk in - so told to keep the people calm with the music melody... This led to me listening to some violin music videos and told to be probably one of the difficult musical instrument to learn. First time I ever lisened live was in the freshers day event back in 2019 at college and it was quite amazing. I do want to learn this instrument sometime and be able to play the music whetever earworms around my mind. Hit across this one and can't stop listening,...probaly 15 times already in a loop https://youtube.com/shorts/EagQ7ODyT-A?feature=share
+
+-----
+### Why's that happening?
+<i>29th May 2023</i>
+
+<p>Was getting tied around a lot of stuff for couple of years now and probably I was doing it purposefully to keep myself occupied in only certain things - university classes, exams and assignments(these hit hard with long procrastimation and last minute terror often), internship and freelancing... and there was sense of urgency and feeling of being overoccuplied which used to probably keep my subconcious mind in alert mode most of the time? or not but I feel so. After getting down of university stuff and no more academic tasks to be done which are judged by someone and graded, things start to feel a bit lighter. Not precisely, but to say, mind doesn't work as it was before. Getting quite staggered with morining alertness and wakeup punctuality, not getting the ability to time things up and priorotize and probably lost with opeining Gmail, LinkedIn and whataspp randomly to poll for updates...</p>
+<p>Its getting quite evident that for me its not getting too good to feel very freed and it makes to having no sense of push for doing a task on plate(my bad - type A here) although I have planned for working on an online project and blogging. YouTube bingewatching also caught me...yucks. Trying to get control over it - probably by engaging with needful tasks in terms of career, upskilling, learning from reading books or yesh! some cycling.</p>
+
+-----
 ### Realization and introspection mattered
 <i>23rd May 2023</i>
 
