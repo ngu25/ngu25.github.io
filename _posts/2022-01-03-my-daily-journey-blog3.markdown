@@ -13,6 +13,12 @@ author: navadeepganeshu
 description: Simply to self document and learn from experience. Closed space until you're really curious :)
 ---
 
+### New day, new things to see, regret and learn...
+<i>2nd June 2023</i>
+<p>Usually I am neutral with people's feelings and not sure if its good or bad, trying to get more empathetic. Around me, lately after meeting a lot of poeple at work or casually around of the age group as of mine, they are in a spectrum of types. Some have strong opinions about what they think, some with high confirmational bias, someone who get quickly triggered and offended and suprisingly someone who is an active listener and does all the reception of what you say and behaves very passive to what you ask back. The last type of people often unrealistically praise, come up with weird questions from nowhere(as you may feel) and inturn gathers information from you what they want. I eventually try to ignore such if identified, but it happened to seem that these people think that everyone around is thinking about them and try to give bad suprises. It does seem bad when one realizes that all those conversations that happened before meant something which was just kept in stelath even after asking about it. My honest questions to such people are: Do you think everyone around you is waiting for you? Do you think it can make you seem high? Dumb! No. Just be 1:1 while talking and interacting whth people and its possible to do so if you want to pay even in the game. I agree that one should be ready to be hated and can't be liked by everyone - but there is a 0 to 100 gauge and staying in the second half is better right?</p>
+
+<p>Boom! forgot what happened last day. It was my end day at the palce I was interning. This opportunity came up unexpectedly and was definitely worth it engaging with this project. Lots to learn about product's developemnt phase, customers and more... Above all we were lucky to have a great founder A - in all terms. A was leeping trust with the team members and empathetic. Used to feel like working with a buddy who's close to me and with me tecnically and ethically. Thanks A for the amazing farewell party at your home. Loved the time with your company and I'm sure we cross paths again in the future.</p>
+
 ### Something out of nowhere!
 <i>30th May 2023</i>
 
@@ -23,7 +29,7 @@ I was browsing through titanic ship story - invoked by a recent titan vessel imp
 <i>29th May 2023</i>
 
 <p>Was getting tied around a lot of stuff for couple of years now and probably I was doing it purposefully to keep myself occupied in only certain things - university classes, exams and assignments(these hit hard with long procrastimation and last minute terror often), internship and freelancing... and there was sense of urgency and feeling of being overoccuplied which used to probably keep my subconcious mind in alert mode most of the time? or not but I feel so. After getting down of university stuff and no more academic tasks to be done which are judged by someone and graded, things start to feel a bit lighter. Not precisely, but to say, mind doesn't work as it was before. Getting quite staggered with morining alertness and wakeup punctuality, not getting the ability to time things up and priorotize and probably lost with opeining Gmail, LinkedIn and whataspp randomly to poll for updates...</p>
-<p>Its getting quite evident that for me its not getting too good to feel very freed and it makes to having no sense of push for doing a task on plate(my bad - type A here) although I have planned for working on an online project and blogging. YouTube bingewatching also caught me...yucks. Trying to get control over it - probably by engaging with needful tasks in terms of career, upskilling, learning from reading books or yesh! some cycling.</p>
+<p>Its getting quite evident that for me its not getting too good to feel very freed and it makes to having no sense of push for doing a task on plate(my bad - type A here) although I have planned for working on an online project and blogging. YouTube bingewatching, eating junk food/crackers also caught me...yucks. Trying to get control over it - probably by engaging with needful tasks in terms of career, upskilling, learning from reading books or yesh! some cycling.</p>
 
 -----
 ### Realization and introspection mattered
