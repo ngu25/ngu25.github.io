@@ -19,6 +19,7 @@ description: Simply to self document and learn from experience. Closed space unt
 
 <p>Boom! forgot what happened last day. It was my end day at the palce I was interning. This opportunity came up unexpectedly and was definitely worth it engaging with this project. Lots to learn about product's developemnt phase, customers and more... Above all we were lucky to have a great founder A - in all terms. A was leeping trust with the team members and empathetic. Used to feel like working with a buddy who's close to me and with me tecnically and ethically. Thanks A for the amazing farewell party at your home. Loved the time with your company and I'm sure we cross paths again in the future.</p>
 
+-----
 ### Something out of nowhere!
 <i>30th May 2023</i>
 
