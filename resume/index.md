@@ -30,10 +30,10 @@ Physics, Chemistry, Mathematics, Computer Science
 
 #### Embedded Systems, Hardware Design, Analog and Power Electronics.  
 
-* **Programming:**  C, Python.  
-* **Embedded Systems:**  ARM Cortex/AVR MCUs, Espressif/ZYNQ SoC, Xilinx FPGAs.  
+* **Programming:**  C, Python, Assembly
+* **Embedded Systems:**  ARM Cortex/AVR MCUs, ZYNQ SoC, Xilinx FPGAs.  
 * **Software Tools:**  MATLAB/Simulink, Xilinx Vivado/Vitis, STMCube IDE.  
-* **Design Tools:**  Eagle EDA, KiCAD, LTspice, NI Multisim, Keysight ADS.  
+* **Design Tools:**  KiCAD, Eagle EDA, LTspice.
 * **Others:**  Git, LaTeX, WordPress, PowerDirector, Fusion 360.  
 
 ---
