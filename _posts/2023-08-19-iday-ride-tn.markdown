@@ -2,7 +2,7 @@
 title: "Independence Day Ride 2023: A New Experience of Fun and Adventure"
 layout: post
 date: 2022-08-19
-image: /assets/images/blog/collage_iday_ride2023.jpg
+image: false
 headerImage: true
 tag:
 - cycling
@@ -16,7 +16,7 @@ description: My first long ride ever - Thanjavur -> Pichavaram -> Pondicherry ->
 This was one of the most unpredicted event ever for me and unlike some other weekend cycling plans that tend to have planned few hours in prior. If you are here and know me, I got my first cycle just more than about 1 year ago in June 2022 when I moved away from the university, it has always been an only mode of commute and for some weekend fun! 
 
 The idea of jumping onto this so called National Holiday - Independence Day Ride 2023 roots from knowing Mr. Ganesh Shankar for a while now. I probably came across his profile in March 2020(BC) while I was interning with an AgriTech startup which happens to be  mentored by him. Fast forward August 2023, I texted Ganesh over LinkedIn checking if he had plans - which I was sure he did...haha as he has been doing this super religiously for over 11 years now.
-> [Ganesh's Independence Day Ride Post #sustainability #cyclinglifestyle #climateaction](https://www.linkedin.com/posts/ganesh-shankar_sustainability-cyclinglifestyle-climateaction-activity-6965389172777893888-BPMJ/?utm_source=share&utm_medium=member_desktop)
+-- > [Ganesh's Independence Day Ride Post #sustainability #cyclinglifestyle #climateaction](https://www.linkedin.com/posts/ganesh-shankar_sustainability-cyclinglifestyle-climateaction-activity-6965389172777893888-BPMJ/?utm_source=share&utm_medium=member_desktop)
 
 I was excited to see his message reply which also showed his higher excitement and in no time, I was sure I wanted to do this! I never have cycled longer than 105km in a stretch and our plan was to do a 350km ride along the Tami Nadu coastline across 3 days. I did wonder initially if I will be capable for this, but somehow the idea of jumping onto something new which was never tried by me covered this doubt. I told about the plan to couple of my friends just to keep me binded to it and after a little tricky validation from my parents, the road was all clear (but the heat of the Sun didn't let us which we'll see later in the story...).
 
@@ -42,4 +42,4 @@ Good Morning Guys! Says Gana - moments after Ganesh's alarm beeps up. Got ready 
 
 To rate the event, this ride was totally awesome with all types of mixed feelings in midst and there was a time when I thought why am I even doing all this? to enjoying the seaside breeze sitting on the saddle as like floating in the air! One realization is that I often took a lot of things happening in daily for granted like the act of having food, catching up with new people, getting to appreciate the help offered by each other, people around and feeing of the pain, heartbeat with the blood flowing in the body. 
 
-Here are some [clips from the ride](https://photos.app.goo.gl/yZKoJaJhasRBjEtS8), [Ganesh's Ride Post](https://www.linkedin.com/feed/update/urn:li:activity:7099476155170254848) and I will be looking forward for the upcoming ones.... cheers and let's stay exploring + adventurous!
+-- Here are some [clips from the ride](https://photos.app.goo.gl/yZKoJaJhasRBjEtS8), [Ganesh's Ride Post](https://www.linkedin.com/feed/update/urn:li:activity:7099476155170254848) and I will be looking forward for the upcoming ones.... cheers and let's stay exploring + adventurous!
