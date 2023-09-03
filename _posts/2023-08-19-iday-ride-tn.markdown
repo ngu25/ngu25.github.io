@@ -2,7 +2,7 @@
 title: "Independence Day Ride 2023: A New Experience of Fun and Adventure"
 layout: post
 date: 2022-08-19
-image: /assets/images/blog/collage_iday_ride2023.jpg
+image: /assets/images/blog/collage_iday_ride.jpg
 headerImage: true
 tag:
 - cycling
