@@ -13,7 +13,7 @@ author: navadeepganeshu
 description: My first long ride ever - Thanjavur -> Pichavaram -> Pondicherry -> Chennai!
 ---
 
-This was one of the most unpredicted event ever for me and unlike some other weekend cycling plans that tend to have planned few hours in prior. If you are here and know me, I got my first cycle just more than about 1 year ago in June 2022 when I moved away from the univeristy, it has always been an only mode of commute and for some weekend fun! 
+This was one of the most unpredicted event ever for me and unlike some other weekend cycling plans that tend to have planned few hours in prior. If you are here and know me, I got my first cycle just more than about 1 year ago in June 2022 when I moved away from the university, it has always been an only mode of commute and for some weekend fun! 
 
 The idea of jumping onto this so called National Holiday - Independence Day Ride 2023 roots from knowing Mr. Ganesh Shankar for a while now. I probably came across his profile in March 2020(BC) while I was interning with an AgriTech startup which happens to be  mentored by him. Fast forward August 2023, I texted Ganesh over LinkedIn checking if he had plans - which I was sure he did...haha as he has been doing this super religiously for over 11 years now.
 > [Ganesh's Independence Day Ride Post #sustainability #cyclinglifestyle #climateaction](https://www.linkedin.com/posts/ganesh-shankar_sustainability-cyclinglifestyle-climateaction-activity-6965389172777893888-BPMJ/?utm_source=share&utm_medium=member_desktop)
