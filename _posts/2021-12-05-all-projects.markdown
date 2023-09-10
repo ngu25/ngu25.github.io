@@ -19,10 +19,12 @@ externalLink: false
 
 [Path to Programmable III - Design Challenge](https://community.element14.com/challenges-projects/design-challenges/pathprogrammable3/)
 
-Project Blog:
+Project Blog:  
+
 [Flight Simulator Display using multisensory interface with Processing 4.0!](https://community.element14.com/challenges-projects/design-challenges/pathprogrammable3/b/blog/posts/path-to-programmable-iii-with-minized-project-blog-flight-simulator-ui-using-multisensory-interface-with-processing-4-0-2098502797)
 
-Training Blogs:
+Training Blogs:  
+
 [MiniZed - not so mini with its capabilities!](https://community.element14.com/challenges-projects/design-challenges/pathprogrammable3/b/blog/posts/path-to-programmable-iii-minized---not-so-mini-with-its-capabilities)
 
 [Platforms, PWM Module and LED: A perfectly no sense app](https://community.element14.com/challenges-projects/design-challenges/pathprogrammable3/b/blog/posts/pp3-sw-training---making-the-minized-say-hello-to-y-all)
