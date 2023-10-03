@@ -13,9 +13,13 @@ author: navadeepganeshu
 description: Simply to self document and learn from experience. Closed space until you're really curious :)
 ---
 
-### 
-
+### Back to Reflection 101
+<i>21st September 2022</i>
+<p>In midst of learning music with flute after a random desire to go hands on with one musical instrument. Thanks to this song https://youtu.be/EagQ7ODyT-A?si=vomlMWYtKethKFjX ....lol. Its interesting how people stick on to a thing for a really long time. Was just watching about Nakul Abhayankar and some pro musicians.</p>
+<p>Too much noise around, been consuming a lot of content lately and actions probably got reduced. The availability of content is just next level and everything is infront on a snap. What gives dopamnie shots are the deeling of 'what's new now', 'who's replied to my text' etc,. and the feeling of craving to know about something for a long time has ceased. At a point where I can't really figure out in the fuzziness as to what next? What's in long term with me and me. People present different ideas - a lot that its confusing to streamline and stick into one and trying everying in portions isn't seeming to be effective or I run of resources. If not it drains too much of power in thinking and managng those.</p>
+<p>Last few months have been a pretty stagnant in terms of technicallyy learning new things - can feel that change of moving out of college and buzz of constant learning. I am loving to stay in that flow but have been consuming a lot of content all about startups, money, music and life of people. One common trait is that it seems to be all long term. People in plan or without it end up big after doing something recurringly for a really prolonged amount of time. Just ended up watching this and punch line is here https://youtu.be/nGpir4oUfJI?si=YCW7GfiWLsumjEgi&t=1700 . Also read something interesting that momentum is all one needs and it is mass times velocity. Velocity is great to have but it without mass is quite not significant. Mass is something which can be built from practice, reading, trying out repeatedly or whatever by means of taking time.</p>
 ----
+
 ### Trying to do what my mind says not to do - Having no clue!
 <i>5th August 2023</i>
 <p>Never mind! who haven't heard this. Did I ever not mind after hearning never mind? Wasn't possible. Everyting that's said, I end up minding about it. Its what brain says - youre intentionally wired to do it. Just like "can you for 10 seconds close your eyes and not think about elephant?" Insane thing is the mind...haha</p>
