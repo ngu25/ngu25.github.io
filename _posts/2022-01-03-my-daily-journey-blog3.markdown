@@ -12,6 +12,9 @@ category: blog
 author: navadeepganeshu
 description: Simply to self document and learn from experience. Closed space until you're really curious :)
 ---
+### One fun day - almost missed
+<i>16th October 2023</i>
+<p>Jumped into [Raphsody 2023](https://rhapsodyiisc.co.in/) last night after suddenly getting reminded by a friend. Although I had registered earlier, I thought of dropping it as one of the prior mails sent by the organizers did not have my registration in top 1000 who were supposed to be allowed dute to exhausive registration. Nevertheless, would have certainly regreted we had not gone. Risked the cycle by parking it next to a bus station near KV ground and boom! After some struggle to ge in, with the llegacy ID card I was in! Event started with a guitar music by Arya Salvi "ARYA LIVE" and after some guitar based music, the blast came in with Sunidhi Chauhan Live. A lot of bollywood songs she had sung earlier and after a bit of low energy songs, the beats went high and the floor shook. Went crazy dancing and jumping around. Probably my second experience of this kind - after a night by Alok "ALLOK" earlier in Ramaiah campus. Something that's learnt is that if not attempted or held back from giving a try, its always missed :)</p>
 
 ### Back to Reflection 101
 <i>21st September 2022</i>
