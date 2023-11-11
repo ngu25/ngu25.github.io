@@ -1,7 +1,7 @@
 ---
 title: "TEDx RUAS Summary"
 layout: post
-date: 2023-09-11
+date: 2023-11-09
 image: /assets/images/blog/techy_poster.jpeg
 headerImage: false
 tag:
