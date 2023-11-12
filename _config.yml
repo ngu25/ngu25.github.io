@@ -27,6 +27,9 @@ url: https://navadeepganeshu.github.io
 
 permalink: /:title/
 
+# default theme "dark" | "light"
+data-theme: light
+
 # To enable google analytics, supply your token below
 analytics-google: G-XHQQZ40Q1S
 
@@ -66,7 +69,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:

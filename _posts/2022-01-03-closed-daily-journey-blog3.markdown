@@ -4,6 +4,7 @@ layout: post
 date: 2022-01-03
 image: /assets/images/blog/techy_poster.jpeg
 headerImage: true
+published: false
 tag:
 - journey
 - notes
