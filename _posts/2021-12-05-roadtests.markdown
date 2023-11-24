@@ -17,6 +17,18 @@ author: navadeepganeshu
 externalLink: false
 ---
 
+[STM32U5A9J-DK Discovery Kit with Embedded Display - Review](https://community.element14.com/products/roadtest/rv/roadtest_reviews/1749/review_of_stm32u5a9j-dk_discovery_kit_with_embedded_display)
+
+<img src="https://community.element14.com/resized-image/__size/1280x720/__key/roadtestreviewfiles/141ff644ba1145829a053589450d117f/20230905_5F00_002652.jpg" width="620" height="440">
+<img src="https://community.element14.com/cfs-file/__key/roadtestreviewfiles/141ff644ba1145829a053589450d117f/20231114_5F00_083557.jpg" width="620" height="440">
+
+- RoadTest: STM32U5A9J-DK Discovery Kit with Embedded Display
+- Author: navadeepganeshu
+- Creation date: 15 Nov 2023
+- Evaluation Type: Microcontroller Kit
+  
+---
+
 [Summer of FPGAs: MAX77714 Multichannel PMIC EVM - Review](https://community.element14.com/products/roadtest/rv/roadtest_reviews/1482/summer_of_fpgas_max7)
 
 <img src="https://community.element14.com/resized-image/__size/784x798/__key/roadtestreviewfiles/81c8c8af6ae44f1f94afed260b463590/0045.contentimage_5F00_214814.jpg" width="620" height="440">
