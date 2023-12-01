@@ -12,7 +12,7 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: false
 resume-url: resume
 
@@ -28,7 +28,7 @@ url: https://navadeepganeshu.github.io
 permalink: /:title/
 
 # default theme "dark" | "light"
-data-theme: light
+data-theme: dark
 
 # To enable google analytics, supply your token below
 analytics-google: G-XHQQZ40Q1S
