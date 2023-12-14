@@ -13,6 +13,18 @@ category: blog
 author: navadeepganeshu
 description: Simply to self document and learn from experience. Closed space until you're really curious :)
 ---
+<i>3rd December 2023</i>
+
+Couldn't find anything close to this in a long time [A man tries to end his life -- but blows a fuse. Then he goes on a journey to replace it](https://youtu.be/7WFXEQx6N3s?si=iYbLAn2idVLN_PgI). Takes human emotion to it's edge.
+
+---
+<i>2nd December 2023</i>
+
+<p>It's interesting and hitting at the same time how emotions control the decisions made. At some point in the beginning, things are thought crazily wild and as the time nears for actual situation, I feel there is a resistance/hesitation/friction and somehow then get pushed to it. The people around, type of content i've watched or listened online plays a part in this I suppose. Dreams start appearning about there if there is an anxiety or too much excitement associated with it.</p>
+<p>Was at LITFEST2023 today and an amazing event it was! Started with carnatic music vocalist and then listening to a dozen of authors about their books. Unboxing Bengaluru was the first one and the authors went on picturing how bengaluru has layers within it and differentiation factors compared to other cities. No one can miss that point about weather. Ome emphasis was that the poeple in bengaluru are open and of welcoming culture. The time people networked and got together is the shortest in bengaluru and people have high mutual trust with each other which no other city has.</p>
+<p>Sudha Murthy then talked about 'small things' of life that we often fail to observe and appretiate. She narrated a story of going to relatives homes for luch and getting dabbas back for dinner as an excuse for not to cook. One thing that stood out is that 'authors observe and write things through their thought process' which many others may not see or even think and relate while just sleepwalking with happenings and routine. Went on with more fictional, history book authors and later comes brand-galuru author who takes snippets of stories of businesses that got buit from bengaluru to the world. Radel, Amrut Malt being some of them.</p>
+
+---
 <i>27th November 2023</i>
 
 <p>Getting back to daily thoughts as I have been quite inconsistent at it. I keep telling this and think atleast  thrice a week. Probably mind's way to zone out from doing hard things - it takes effort to do this, reflect yourself and unlearn/relearn. Currently reading The Art of Bitfulness. Realizing is important and only comes by either doing it, failing at it or reading it. One of the faster way is by reading and this book just brings so much bittertruths. Never have I ever got so much concerned hearing a browser notifcation from LinkedIn(all other social apps muted years ago) or a phone ringing up. I am trying to tend to a point where I can respond to people bugging me(be it for a reason or not) whenever I want to purposefully. I have noticed once I get carriedd away, average time spent is 20mins until reverting back. It's so akward how mind loses it's purpose and I get driven by others for no reason or for just a binge chat. Rationalizing important is what I am trying. One thing that helps me along the way is writing that thought down in a paper while distraction comes in. It's funny - but it's a vicous circle that makes me think I will forget to text someone or tell something or browse some content if I do not do it right now and that thought bugs again and again until I pick the phone or laptop and do it. Writing down relieves it and I know it's on paper and I can do it later!</p>
