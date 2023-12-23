@@ -38,7 +38,8 @@ Optimization is still left for a thoughtful designer where high-frequency, high-
 <br>
 [Quilter](https://www.quilter.ai): This is a compiler for board design and does the task of placing components based on math(so-called generative AI) to achieve the least intersection and routes down it. This input to this process is the schematic(netlist) and the board layout with placement of connectors specified(too much intelligence may lead to placing of USB connector in the middle of the board)
 <br>
+
 It can be done. If so how? Here are some closest things I can imagine:
 - Building a custom GPT with a lot more dataset related to circuit design and gives streamlined pointers on how and why's in the  process for the designer. We have seen build your own GPT in the recent [OpenAI Dev Day 2023](https://openai.com/blog/introducing-gpts)
-- Using scripting utilities foe replicating layouts and keeping the design modular. There can be sections in a circuit board like power regulator which is repetitive for multiple different voltage levels with just the feedback resistor value chaning. The layout can be made as a block and applied at multiple places in the design. KiCAD already has some of such [plugins available](https://forum.kicad.info/t/replicate-layout-action-plugin/8539)
+- Using scripting utilities for replicating layouts and keeping the design modular. There can be sections in a circuit board like power regulator which is repetitive for multiple different voltage levels with just the feedback resistor value chaning. The layout can be made as a block and applied at multiple places in the design. KiCAD already has some of such [plugins available](https://forum.kicad.info/t/replicate-layout-action-plugin/8539)
 - Be a good hardware designer and do-it-yourself!
