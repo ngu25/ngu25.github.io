@@ -29,5 +29,5 @@ All I have to say for the person with excessive curiosity is 'dude, my heart goe
 <br>
 Attaching two covers for good:
 <br>
-<img src="https://m.media-amazon.com/images/I/71t4GuxLCuL._SY466_.jpg" width="400" height="620">
 <img src="https://m.media-amazon.com/images/I/31DKAqYs42L._SX342_SY445_.jpg" width="400" height="620">
+<img src="https://m.media-amazon.com/images/I/71t4GuxLCuL._SY466_.jpg" width="400" height="620">
