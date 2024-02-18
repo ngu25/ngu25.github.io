@@ -1,5 +1,5 @@
 ---
-title: "Innate curiosity, there is a place for chaos - why so??"
+title: "With innate curiosity, there is a place for chaos - why so??"
 layout: post
 date: 2024-01-13
 image: 
@@ -23,7 +23,7 @@ There is a trust factor in this as well. If a good friend of mine says 'hey, hav
 <br>
 While I am not spared from any of this, we have a giant bubble built up where every molecule is a part of it and the soap water which formed this bubble is introduced by the internet media. All I wanted is to talk what is this but made me write the above as a precursor. Realization is the key. Take a minute to yourself to pause, think where was that initial condition input for the butterfly. It's way easier to stop the situation here. But come on, who doesn't have the curiosity kick in?
 <br>
-All I have to say for the person with excessive curiosity on the other side of the screen is - 'dude, my heart goes down for you, amen!'
+All I have to say for the person with excessive curiosity on the other side of the screen is - 'dude, my heart goes down for you!'
 <br>
 <br>
 <br>
