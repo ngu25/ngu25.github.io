@@ -13,9 +13,37 @@ category: blog
 author: navadeepganeshu
 description: Simply to self document and learn from experience. Closed space until you're really curious :)
 ---
+<i>25th March 2024</i>
+
+I am writing again, and it's a while another year. 2023 was special to me - a lot of goals were set according to this and is a benchmark year(the year I graduate). I still miss the year while writing dates - manh, 2023 slipped through!
+<br>
+I haven't been very vocal about what I was doing for the last 3 months. Mostly time went at the office, talking a lot, meeting and thinking about people lol. Been following some ace value investors, and I am trying to understand the economics of companies also peeking to ~great~ rich people's history, mindset and career paths. Also worked not so actively with DevHeads, an electronics community we're building.
+<br>
+Watched some nice movies recently and here's a quick one word highlight:
+1. Fractured - mind, psychology, suspense, thriller
+2. A Gift - grudge, people, thriller
+3. Shattered - money, hate, crime, thriller
+4. Anyone but you - romcom
+5. STILL: Mike Fox movie - life, pain, success (absolute gem)
+
+---
 <i>3rd December 2023</i>
 
 Couldn't find anything close to this in a long time [A man tries to end his life -- but blows a fuse. Then he goes on a journey to replace it](https://youtu.be/7WFXEQx6N3s?si=iYbLAn2idVLN_PgI). Takes human emotion to it's edge.
+
+---
+### 2023 Year in Review
+<i>31st December 2023</i>
+
+<p>A year ago this time, I had almost winded up all university coursework and the final project was undergoing. 2 days into 2023, I joined at ARTPARK for my internship alongside doing the university project with the team which had already taken shape - kudos to everyone's work. It's interesting how priorities change and interests shift based on small events as a result of butterfly effect kicking in. Life definitely is a chaotic system especially for me in 2023 while I got out of the bubble and took an opportunity to explore what's around and how people, businesses and industry works at a macro level and mindsets of people. By this time I had worked with a bunch of startups all along college and also with a MNC during my earlier semester internship. I was super streamlined into academics, projects and whatever tech although had initiated some extras lately while with Bosch cycling champs. I feel it was a feeling of insecurity and having that accountability to study and do things which parents and people around would feel is right. I was mostly zoned out of classmate gang in which I found little to no value considering the last sentence. Who know's I would have taken a yet another different trajectory which would have turned out to be good otherwise.</p>
+<p>Well, all till then was linear, predicted and went as expected until I was on a job hunt in embedded domain late 2022. A series of failed interviews just gave me nightmares and self-doubts. I had to make some choices, prioritize opportunities and move on with what felt right at that moment. After these unsucessful attempts to get into a large semiconductor corp., I took some time to think and reflect. Read a bunch of books related to self-help and career - 'Build, Tony Fadell', 'Ankur Warikoo' types. Talked to a bunch of people over LinkedIn working across tech domain and all I was trying to do was making peace with the situation and trying to sort out where I can best fit-in. This was still November/December 2022 and like with all other opportunities I got, I was approached about this internship at ARTPARK. Took some time to research and as well, it matched with what I was closely doing for a year earlier and thought I had my bit to contribute there. Signed up and 6 months goes in there. All along this, I got deeply intereted in observing businesses, how people make money come their way and the macro view of how tech, economy cycles. I was too keen to invest the money whatever I had(sub 2L) and was day-in and out exploring things. Spent some good time cycing around Bengaluru early mornings with Cult Tribe and made a bunch of friends. I just wasn't at this point concerned about what other's want me to be or think about me. Lived super frugally and doubled down the time for reading, cycling and observing businesses.</p>
+<p>Few things I am looking forward for:</p>
+- 
+-
+
+<p>Thoughts about upcoming times:</p>
+- It has become increasingly easy to be know something without knowing it. GPT tools are excellent at making us feel like this by presenting interesting stories of its own.
+- Human health to be put on priority. Health illness can wipe out wealth. Our surroundings have become increasingly infectious and probably we're developing resistance to existing antibiotics.
 
 ---
 <i>2nd December 2023</i>
