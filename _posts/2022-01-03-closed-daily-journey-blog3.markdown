@@ -24,7 +24,10 @@ Watched some nice movies recently and here's a quick one word highlight:
 2. A Gift - grudge, people, thriller
 3. Shattered - money, hate, crime, thriller
 4. Anyone but you - romcom
-5. STILL: Mike Fox movie - life, pain, success (absolute gem)
+5. Kshamisi Nimma Khateyalli Hanavilla - regional, fun, moral story
+6. Swati Muttina Male Haniye - life, hate, affection, enjoying the moments
+7. Living - gentleman, life and work, realizations (moral and absolute gem)
+8. STILL: Mike Fox movie - life, pain, success (absolute gem)
 
 ---
 <i>3rd December 2023</i>
