@@ -43,9 +43,9 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: UNavadeep
-#instagram: myinstagram
 linkedin: ngu25
+instagram: ngu025
+#twitter: UNavadeep
 youtube: channel/UC-iYVlggY_Ig0oIBMLnEmgw
 github: navadeepganeshu
 # gitlab: mygitlab
