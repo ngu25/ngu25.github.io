@@ -10,7 +10,7 @@ tag:
 image: /assets/images/blog/techy_poster.jpeg
 headerImage: true
 projects: true
-hidden: true # don't count this post in blog pagination
+hidden: false # don't count this post in blog pagination
 description: "Collection of all projects"
 category: project
 author: navadeepganeshu

@@ -10,7 +10,7 @@ tag:
 image: https://community.element14.com/e14/assets/main/2021/roadtestLogo.png
 headerImage: true
 projects: true
-hidden: true # don't count this post in blog pagination
+hidden: false # don't count this post in blog pagination
 description: "My Element14 RoadTest reviews"
 category: project
 author: navadeepganeshu

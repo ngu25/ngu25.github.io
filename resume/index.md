@@ -118,6 +118,19 @@ At Latracal Solutions, I worked with PythonPool as a technical content writer an
 
 ---
 
+## > Publications 📝
+
+* P. Tiwari, S. Asma, __G. U. Navadeep__, P. Mahanta and G. Trivedi, "Load-Data Imputation and Economic Feasibility Analysis of an Academic Institution," 2023 International Conference on Electrical, Computer and Energy Technologies (ICECET), Cape Town, South Africa, 2023, pp. 1-6.
+[doi: 10.1109/ICECET58911.2023.10389395](http://dx.doi.org/10.1109/ICECET58911.2023.10389395)
+
+        keywords: {Photovoltaic systems;Renewable energy sources;Costs;Linear regression;Time series analysis;Software algorithms;Manuals;Linear regression;Imputation of missing data;Solar photovoltaic (SPV) systems;Renewable energy fraction (REF);HOMER-Pro software},
+
+* B. M. K. Kumar, N. J. Thanusha, S. Hiremath, K. Soujanya, B. C. Vanishree and __G. U. Navadeep__, "A Solar Powered Kiosk for Contactless Body Temperature Sensor and Hand Sanitizer Dispenser to Monitor and Control Covid-19 Disease," 2021 International Conference on Recent Trends on Electronics, Information, Communication & Technology (RTEICT), Bangalore, India, 2021, pp. 884-888. [doi: 10.1109/RTEICT52294.2021.9573663](http://dx.doi.org/10.1109/RTEICT52294.2021.9573663)
+
+        keywords: {Temperature sensors;COVID-19;Temperature measurement;Photovoltaic systems;Actuators;Pandemics;Logic gates;Arduino;Covid-19;Flip gates;Motor drive;Sanitizer and Solar PV}
+
+---
+
 ## > Relevant courses and Involvements 📚
 
 * **IEEE Student Member** (IEEE Sensors, Electronic Design, Power and Energy Societies)  
