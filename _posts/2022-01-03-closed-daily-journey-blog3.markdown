@@ -13,11 +13,26 @@ category: blog
 author: navadeepganeshu
 description: Simply to self document and learn from experience. Closed space until you're really curious :)
 ---
+## Being spurious, open to trying, and a lot of old things again to improve on...
+<i>16th June 2024</i>
+
+Lost consistency in writing these logs, but ending up here in this screen while the mind feels scattered. Experiencing more indisclipne, lack to attention to details in activities, unnecessary food cravings haha, more procrastination and a lot of froth in the productivity. Last couple of months have been a plateau but some excitement surges with getting AMD Hackster hardware for a project (UM790 Pro Mini PC) and the work with DevHeads kept me busy. At office days go flat - it's upon me to deliver the required and work on things. All I feel like caring about is money, health and some people around. Tried to stay no-strings attached in situations and been doubling down on trying to learn about companies and stocks. So far having a reasonable gains on investments - haven't really made me feel bad and been reading books to adapt mindset and methods. One such is [The most important thing - Illuminated](https://cup.columbia.edu/book/the-most-important-thing-illuminated/9780231162845) talking about a set of strategies and observations from people and history of markets.
+<br>
+Got some spurious thoughts and ideas as to what to do in a long term. Still on an exploration mode to find a pivot. Oops! Maybe I get disturbed by noise and people chattering around a lot....
+<br>
+Well, bought myself a GoPro Hero 12 with a feeling of trying some cycling, nature related content. Shot a couple of reels with my sister for instagram. But yeah, its again spurious and sometimes I feel like doing it suddenly - content capture is a creative act and it's a memory. I feel a camera can capture too much good for memories. What is it all without sometimes looking at Google Photos timeline and cringing, laughing at ownself.
+<br>
+Tried something spurious again yesterday. Woke up with a missed ride to Nandi Hills and got FOMO. Heard one of my friends telling about food delivery, so gave a try signing up to Shadowfax. Not a bad experience, ended up delivering 6 orders and made 250rs + 50rs cash in tips. Maybe I'll jot down more about this:  
+1. I feel good about meeting new, random people and it shows the spectrum. My first order was getting late picking up at restaurant but the staff seemed relaxed and unworried while I nervously waited for it. Was 3km uptil the delivery point. Had a rear tube puncture right after the delivery near BEL entrance.
+2. Second order had kindness. As I cycled towards Subway in Malleshwaram, got too sweaty and tired. The staff there exclaimed and asked me what are you here for...haha. Maybe was expecting such an untidy looking person like me. Soon after me asking for the order pickup, he checked if I wanted some water. Marched towards the delivery point a few bachelors were partying on the top floor and a girl who supposedly called me buddy and thanked for the delivery.
+3. Nothing exciting for a couple more of orders and I got tired after cycling ~18km around Malleshwaram in the eveing and was also getting dark. Suddenly a big order came up and ended up taking it. Picked it up from Mantri Mall and drop point was somewhere a Villa house. Called the person and she opened the door all calm and composed, took the order and for my surprise, offered 50rs in tips. Ended the trip there and came home afterwards. Probably I want to get that affluent one day ;) Goal set!
+
+---
 <i>25th March 2024</i>
 
 I am writing again, and it's a while another year. 2023 was special to me - a lot of goals were set according to this and is a benchmark year(the year I graduate). I still miss the year while writing dates - manh, 2023 slipped through!
 <br>
-I haven't been very vocal about what I was doing for the last 3 months. Mostly time went at the office, talking a lot, meeting and thinking about people lol. Been following some ace value investors, and I am trying to understand the economics of companies also peeking to ~great~ rich people's history, mindset and career paths. Also worked not so actively with DevHeads, an electronics community we're building.
+I haven't been very vocal about what I was doing for the last 3 months. Mostly time went at the office, talking a lot, meeting and thinking about people lol. Been following some ace value investors, and I am trying to understand the economics of companies also peeking to ~great~ rich people's history, mindset and career paths. Worked not so actively with DevHeads, an electronics community we're building.
 <br>
 Watched some nice movies recently and here's a quick one word highlight:
 1. Fractured - mind, psychology, suspense, thriller
