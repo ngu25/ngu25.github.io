@@ -1,16 +1,17 @@
 ---
-title: "Independence Day Ride 2023: A New Experience of Fun and Adventure"
+title: "(Thanjavur -> Chennai) Independence Day Ride 2023: A New Experience of Fun and Adventure"
 layout: post
-date: 2022-08-19
+date: 2023-08-19
 image: /assets/images/blog/collage_iday_ride.jpg
 headerImage: true
 tag:
 - cycling
+- trip_with_me
 - blog
 - hobby
 category: blog
 author: navadeepganeshu
-description: My first long ride ever - Thanjavur -> Pichavaram -> Pondicherry -> Chennai!
+description: My first long ride ever - Thanjavur -> Chidambaram -> Pichavaram -> Pondicherry -> Chennai!
 ---
 
 This was one of the most unpredicted event ever for me and unlike some other weekend cycling plans that tend to have planned few hours in prior. If you are here and know me, I got my first cycle just more than about 1 year ago in June 2022 when I moved away from the university, it has always been an only mode of commute and for some weekend fun! 
@@ -30,15 +31,21 @@ Enroute, we were trying to explore as much as possible. Kudos to Gana for keepin
 
 Fast forward few hours, after an acute cycle crash between me and Ganesh(I have to admit here, I hit him first on the handle after which we both lost balance and fell on the roadside) we were at Sitharama Vilas a little prior to their opening time. I was having intense headache and lost 50% of the appetite. We had taken some 45 min break and dozed off under a tree post 12:30pm. The lunch was fair enough and we again ended up sleeping outside a temple were a lady kept bothering us with her own rapid chatting going on with the villagers sitting nearby. After, we passed through some beautiful paddy fields watching the sunset and the highways were excellently built and maintained throughout. Once we hit 105km, Ganesh and I celebrated it as my first 100km with them. Yet after a long curved roots, we reached Chidhambaram town where some occasion was going on and the temple left open until 11pm. Thanks to Gana again  - we right away shot in to the lodge and after getting freshed up, having dinner, it was time for starting the next day. Meanwhile, Ganesh got some pics to share infornt of the temple to get told as a good husband/family man visiting temple along the long ride. We had also visited Dharasuram Temple in the morning after getting excited about sleeping the lawn infront of it. It was a marvelous Chola time temple where we changed and put on cycling shorts(not a good way to remember about a temple, but here we go!)
 
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="9640214230" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
+
 ### Day 2
 
 Next morning we started around 7am and as we were too tired to enter the temple last night, decided to get a quick round where I was stopped from getting in because of wearing shorts. Departed to Pichavaram then on and oops, Gana again couldn't join us this day as he managed to mss the bus due to heavy rain in Bengaluru. Plan was to have a boat ride in the Mangroves. It was calm and sooting to afloat on water around a forest of mangroves. Again it started getting sunny and we hit the road to  Pondicherry as soon as possible. I recovered from the last day's headache and was on full energy. Here we took the coastline root and encountered extreme humidity. Found a Team Time(they helped us a lot during the ride by showing up with an outlet at right times). First target was Cuddalore and the sun was not on our side. I ended up getting too dehydrated and even after having some fruits in Samyar Pete beach, things didn't go to well. The headache kicked in again and I was off. We dozed off under pine trees in the sand listening to the winds and sea waves roaring. Slipped to sleep and an hour later we resumed. Even after having a lot of water with electrolytes, the bladder wasn't filling up. The sweating was nothing less than a waterfall, and it used to crystallize in the skin. Kind of relating it to salt bed that we saw near Kalpakkam on 3rd day haha.
 
 After trying to find the next first place for lunch('good' place was out of scope now as there were hardly any we could find) we diverted from the coastline interior roads to the ECR highway were we somehow found a place to get energized quickly until lunch with chikki's and chips. Soon we managed to find an unlisted restaurant where we had rice, dal and some chopped leafy curry. There was a calm tree shelter next to the canteen where we dozed off again before resuming to Pondicherry. By now I was almost good with energy and we resumed straight to Pondicherry. Evening sunset rides often tend to be max productive as Ganesh calls it 'Golden Hours' for the reaching destination. Made it to Pondi and expecting Gana the next day, with excitement we slept off. 
 
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="9645393225" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
+
 ### Day 3
 
 Good Morning Guys! says Gana - moments after Ganesh's alarm beeps up. Got ready ASAP and we were on the road! Here comes our champ Gana with a road bike and full of energy. After some quick puncture fix with Ganesh's cycle, we were out of the city. We had some drinks in the middle and the breakfast turned brunch. Probably past 30km by then, we spot a hotel and had breakfast around 12pm. Gana probably bought some shareable packets of energy - it was the last day of ride and the most energetic one. Post passing Kalpakkam, it was 3pm and restaurants were out of food. We had some fresh fruit juice, snacks and made it to Adyar Ananda Bhava(A2B) in Mahabalipuram. Suddenly it was a city and crowded place. After visiting the stone carvings and places around, we started to think of reaching Chennai city by the bus timings. Realizing it was still 55kms and having 3 hours in hand, we decide to go as far it reaches till 830pm and then fast-forward with an autorickshaw. Somewhere in midst the highway, we decide to call for an auto until next 12km or so and entered the chennai city after saying goodbye to Gana who was going to his home in Chennai. Challenge was now to navigate inside and reach Koyambedu bus station which is named as Asia's largest one. But never mind, there is no use of it's large size if the entropy is large as well. In this cluttered city wide bus station, we spotted KSRTC place just in time and there it is! Tried to get comfortable in the seat and next morning were on our ways in Bengaluru. 
+
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="9653990651" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
 
 To rate the event, this ride was totally awesome with all types of mixed feelings in midst and there was a time when I thought why am I even doing all this? to enjoying the seaside breeze sitting on the saddle as like floating in the air! One realization is that I often took a lot of things happening in daily for granted like the act of having food, catching up with new people, getting to appreciate the help offered by each other, people around and feeling of the pain, heartbeat with the blood rushing in the body. 
 
