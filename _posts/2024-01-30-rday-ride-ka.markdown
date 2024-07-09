@@ -7,6 +7,7 @@ headerImage: true
 tag:
 - blog
 - trip_with_me
+- cycling 
 category: blog
 author: navadeepganeshu
 description:  Honnavara -> Udupi -> Mangaluru -> Kasaragod -> Kannur!
