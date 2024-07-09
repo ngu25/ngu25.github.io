@@ -8,7 +8,6 @@ tag:
 - cycling
 - trip_with_me
 - blog
-- hobby
 category: blog
 author: navadeepganeshu
 description: My first long ride ever - Thanjavur -> Chidambaram -> Pichavaram -> Pondicherry -> Chennai!
