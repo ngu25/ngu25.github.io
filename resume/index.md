@@ -7,8 +7,8 @@ title: Resume
 
 ---
 
-View as [PDF](https://navadeepganeshu.github.io/resume/Navadeep_Resume.pdf){:target="_blank" rel="noopener"} (General role)  
-View as [PDF](https://navadeepganeshu.github.io/resume/Navadeep_Resume_EmbSys.pdf){:target="_blank" rel="noopener"} (Embedded Systems role)  
+[//]: <> (View as [PDF](https://navadeepganeshu.github.io/resume/Navadeep_Resume.pdf){:target="_blank" rel="noopener"} (General role))
+[//]: <> (View as [PDF](https://navadeepganeshu.github.io/resume/Navadeep_Resume_EmbSys.pdf){:target="_blank" rel="noopener"} (Embedded Systems role))
 
 ---
 ## > Education 🎓
