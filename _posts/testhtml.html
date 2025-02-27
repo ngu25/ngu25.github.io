@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Hexagon</title>
+    <style>
+        body { margin: 0; overflow: hidden; background: black; }
+        canvas { display: block; }
+        @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+        
+        .spark {
+            position: absolute;
+            width: 100px; /* Increased size */
+            height: 100px; /* Increased size */
+            display: none;
+            animation: flash 0.2s linear infinite alternate;
+            font-size: 50px; /* Make the spark icon bigger */
+        }
+        
+        @keyframes flash {
+            from { opacity: 1; }
+            to { opacity: 0.3; }
+        }
+    </style>
+</head>
+<body>
+    <canvas id="meshCanvas"></canvas>
+    <script>
+        const canvas = document.getElementById("meshCanvas");
+        const ctx = canvas.getContext("2d");
+        canvas.width = window.innerWidth;
+        canvas.height = window.innerHeight;
+        
+        const centerX = canvas.width / 2;
+        const centerY = canvas.height / 2;
+        const radius = 150;
+        const hexPoints = [];
+        const links = [
+            { url: "https://google.com/", icon: "🔌", name: "Google" },
+            { url: "https://microsoft.com/", icon: "🔋", name: "Microsoft" },
+            { url: "https://apple.com/", icon: "🚀", name: "Apple" },
+            { url: "https://github.com/", icon: "💡", name: "GitHub" },
+            { url: "https://stackoverflow.com/", icon: "🔧", name: "StackOverflow" },
+            { url: "https://mozilla.org/", icon: "⚙️", name: "Mozilla" }
+        ];
+
+        for (let i = 0; i < 6; i++) {
+            const angle = (Math.PI / 3) * i;
+            const x = centerX + radius * Math.cos(angle);
+            const y = centerY + radius * Math.sin(angle);
+            hexPoints.push({ x, y, ...links[i] });
+        }
+
+        function drawHexagon() {
+            ctx.strokeStyle = "#00FF00";
+            ctx.lineWidth = 3;
+            ctx.setLineDash([5, 5]); /* Dotted line */
+            ctx.beginPath();
+            ctx.moveTo(hexPoints[0].x, hexPoints[0].y);
+            for (let i = 1; i < hexPoints.length; i++) {
+                ctx.lineTo(hexPoints[i].x, hexPoints[i].y);
+            }
+            ctx.closePath();
+            ctx.stroke();
+            ctx.setLineDash([]);
+        }
+
+        function drawIcons() {
+            ctx.font = "50px 'Press Start 2P', cursive"; /* Increased icon size */
+            ctx.fillStyle = "white";
+            ctx.textAlign = "center";
+            hexPoints.forEach(point => {
+                ctx.fillText(point.icon, point.x, point.y + 15);
+                ctx.font = "20px 'Press Start 2P', cursive"; /* Increased text size */
+                ctx.fillText(point.name, point.x, point.y + 60);
+            });
+        }
+
+        function checkClick(event) {
+            const { clientX, clientY } = event;
+            hexPoints.forEach(point => {
+                const distance = Math.sqrt((clientX - point.x) ** 2 + (clientY - point.y) ** 2);
+                if (distance < 30) {
+                    window.open(point.url, "_blank");
+                }
+            });
+        }
+
+        function showSpark(x, y, angle) {
+            let spark = document.getElementById("sparkEffect");
+            if (!spark) {
+                spark = document.createElement("div");
+                spark.id = "sparkEffect";
+                spark.classList.add("spark");
+                document.body.appendChild(spark);
+            }
+            const offsetX = 40 * Math.cos(angle);
+            const offsetY = 40 * Math.sin(angle);
+            spark.style.left = `${x + offsetX - 50}px`;
+            spark.style.top = `${y + offsetY - 50}px`;
+            spark.innerHTML = "⚡";
+            spark.style.display = "block";
+        }
+
+        function hideSpark() {
+            let spark = document.getElementById("sparkEffect");
+            if (spark) {
+                spark.style.display = "none";
+            }
+        }
+
+        canvas.addEventListener("click", checkClick);
+        canvas.addEventListener("mousemove", (event) => {
+            let hovering = false;
+            hexPoints.forEach((point, i) => {
+                const distance = Math.sqrt((event.clientX - point.x) ** 2 + (event.clientY - point.y) ** 2);
+                if (distance < 30) {
+                    showSpark(point.x, point.y, (Math.PI / 3) * i);
+                    hovering = true;
+                }
+            });
+            if (!hovering) hideSpark();
+        });
+
+        function animate() {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            drawHexagon();
+            drawIcons();
+            requestAnimationFrame(animate);
+        }
+        animate();
+    </script>
+</body>
+</html>
