@@ -44,9 +44,8 @@ disqus:
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
 linkedin: ngu25
-instagram: ngu025
+#instagram: ngu025
 #twitter: UNavadeep
-youtube: channel/UC-iYVlggY_Ig0oIBMLnEmgw
 github: navadeepganeshu
 # gitlab: mygitlab
 # lastfm: mylastfm
@@ -56,6 +55,8 @@ github: navadeepganeshu
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
+substack: '@ngu025'
+youtube: channel/UC-iYVlggY_Ig0oIBMLnEmgw
 email: navadeepganesh.ngu@gmail.com
 
 authors:
@@ -64,7 +65,7 @@ authors:
     bio: He kills a lot of time being hooked up with EE \n
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: UNavadeep
+    #twitter: UNavadeep
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
