@@ -22,10 +22,9 @@ rnr: true
 rnr-external: false
 rnr-url: rnr
 
-# Update your URL for the domain
-url: https://navadeep.brave  # Change from http://ngu25.github.io/
-#url: http://ngu25.github.io/
-# your url: https://USERNAME.github.io
+# Site URL - Your Web3 domain
+url: https://navadeep.brave
+baseurl: ""
 
 permalink: /:title/
 
@@ -41,22 +40,12 @@ analytics-google: G-XHQQZ40Q1S
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: https-ngu25-github-io # enter this from your disqus account
+  shortname: navadeep-brave # Updated for new domain
   categories: [blog, project] # only show disqus for posts that have these categories
-# if you don't have any of social below, comment the line
-# facebook: myfacebook
+
+# Social links
 linkedin: ngu25
-#instagram: ngu025
-#twitter: UNavadeep
 github: ngu25
-# gitlab: mygitlab
-# lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
-# quora: Navadeep-Ganesh-U
-# reddit: username
-# medium: medium
-# vimeo: myvimeo
-# lanyrd: mylanyrd
 substack: '@ngu025'
 youtube: channel/UC-iYVlggY_Ig0oIBMLnEmgw
 email: navadeepganesh.ngu@gmail.com
@@ -64,65 +53,43 @@ email: navadeepganesh.ngu@gmail.com
 authors:
   navadeepganeshu:
     name: Navadeep
-    bio: He kills a lot of time being hooked up with EE \n
+    bio: He kills a lot of time being hooked up with EE
     external-image: false
     picture: assets/images/profile.jpg
-    #twitter: UNavadeep
 
-# do you want a larger site? change the option below
-# options: [normal, large] | default: normal
-# normal = 560px / large = 810px
+# Site layout options
 width: large
 
-# if you do/don't need pagination, toggle 'enabled' between true/false below
+# Pagination settings
 pagination:
   enabled: true
-  sort_reverse: true # display recent posts first
-  title: ":title" # Changing this will mess up the header display logic
+  sort_reverse: true
+  title: ":title"
   per_page: 10
-  permalink: "/:num/" # pagination link that will be appended
+  permalink: "/:num/"
 
-# if you don't need projects, comment the *projects* configs below
+# Feature toggles
 projects: true
-
-# if you don't need "about" or "blog", comment them out below
 about: true
 blog: true
-
-# do you want to show the "read time" of the posts?
 read-time: true
-
-# do you want to show the "tags" inside the posts?
 show-tags: true
-
-# related posts inside a post?
 related: true
-
-# Display links for next and previous posts for the specified categories
-post-advance-links: [blog]
-
-# show author block at the end of a post ?
 show-author: true
-
-# do you want some animations?
 animation: true
 
-# add default values to specific pages or layouts
+# Post navigation
+post-advance-links: [blog]
+
+# Default post settings
 defaults:
   - scope:
-      path: "" # an empty string here means all files in the project
+      path: ""
       layout: "post"
     values:
-      # setting all post to not hidden by default,
-      # can be overridden in the front matter for a specific post
       hidden: false
 
-# For IPFS compatibility
-relative_permalinks: false
-baseurl: ""
-url: ""
-
-# Web3 settings
+# Web3 Configuration
 web3_domain: "navadeep.brave"
 crypto_addresses:
   bitcoin: "navadeep.brave"
@@ -130,6 +97,7 @@ crypto_addresses:
   usdt: "navadeep.brave"
   polygon: "navadeep.brave"
 
+# Jekyll plugins
 plugins:
   - jekyll-seo-tag
   - jekyll-gist
@@ -138,22 +106,23 @@ plugins:
   - jekyll-admin
   - jekyll-paginate-v2
 
+# Plugin settings
 jekyll-mentions:
   base_url: https://github.com
 
+# HTML compression
 compress_html:
   ignore:
     envs:
       - development
       - stage
 
+# Build exclusions
 exclude:
-  [
-    "travis.sh",
-    "README.md",
-    "Gemfile",
-    "Gemfile.lock",
-    "FAQ.md",
-    "node_modules",
-    "vendor",
-  ]
+  - travis.sh
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - FAQ.md
+  - node_modules
+  - vendor
