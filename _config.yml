@@ -22,7 +22,9 @@ rnr: true
 rnr-external: false
 rnr-url: rnr
 
-url: http://ngu25.github.io/
+# Update your URL for the domain
+url: https://navadeep.brave  # Change from http://ngu25.github.io/
+#url: http://ngu25.github.io/
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -114,6 +116,19 @@ defaults:
       # setting all post to not hidden by default,
       # can be overridden in the front matter for a specific post
       hidden: false
+
+# For IPFS compatibility
+relative_permalinks: false
+baseurl: ""
+url: ""
+
+# Web3 settings
+web3_domain: "navadeep.brave"
+crypto_addresses:
+  bitcoin: "navadeep.brave"
+  ethereum: "navadeep.brave"
+  usdt: "navadeep.brave"
+  polygon: "navadeep.brave"
 
 plugins:
   - jekyll-seo-tag
