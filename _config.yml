@@ -23,7 +23,8 @@ rnr-external: false
 rnr-url: rnr
 
 # Site URL - Your Web3 domain
-url: https://navadeep.brave
+url: https://ngu25.github.io
+#url: https://navadeep.brave
 baseurl: ""
 
 permalink: /:title/
@@ -40,7 +41,7 @@ analytics-google: G-XHQQZ40Q1S
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: navadeep-brave # Updated for new domain
+  shortname: ngu25-github-io #navadeep-brave # Updated for new domain
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # Social links
