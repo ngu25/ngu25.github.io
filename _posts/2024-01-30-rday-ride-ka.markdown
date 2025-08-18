@@ -46,4 +46,4 @@ Just in time, onboarded the bus, and we were in Bengaluru the next day. Cold wea
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="10648535706" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>
 
-Here are some [clips from the ride](https://photos.app.goo.gl/wjNkayuoyS3SbUFq7), and I will be looking forward for the upcoming ones.... cheers and let's stay exploring + adventurous!
+Here are some [clips from the ride](), and I will be looking forward for the upcoming ones.... cheers and let's stay exploring + adventurous!

@@ -48,4 +48,4 @@ Good Morning Guys! says Gana - moments after Ganesh's alarm beeps up. Got ready 
 
 To rate the event, this ride was totally awesome with all types of mixed feelings in midst and there was a time when I thought why am I even doing all this? to enjoying the seaside breeze sitting on the saddle as like floating in the air! One realization is that I often took a lot of things happening in daily for granted like the act of having food, catching up with new people, getting to appreciate the help offered by each other, people around and feeling of the pain, heartbeat with the blood rushing in the body. 
 
-Here are some [clips from the ride](https://photos.app.goo.gl/yZKoJaJhasRBjEtS8), [Ganesh's Ride Post](https://www.linkedin.com/feed/update/urn:li:activity:7099476155170254848) and I will be looking forward for the upcoming ones.... cheers and let's stay exploring + adventurous!
+Here are some [clips from the ride](), [Ganesh's Ride Post](https://www.linkedin.com/feed/update/urn:li:activity:7099476155170254848) and I will be looking forward for the upcoming ones.... cheers and let's stay exploring + adventurous!
