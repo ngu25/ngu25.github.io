@@ -4,7 +4,7 @@
     margin-top: 125px
 
     > .list
-        border-top: 1px solid $epsilon
+        border-top: 1px solid var(--color-border)
         margin-top: 30px
         padding-top: 40px
         position: relative
@@ -14,13 +14,13 @@
             content: " "
             width: 7px
             height: 7px
-            border: $epsilon 1px solid
+            border: var(--color-border) 1px solid
             position: absolute
             top: -5px
             left: 50%
             margin-left: -5px
-            background: #FFF
-            box-shadow: #FFF 0 0 0 5px
+            background: var(--color-background)
+            box-shadow: var(--color-background) 0 0 0 5px
             border-radius: 3px
 
 .home > .list,
@@ -44,7 +44,7 @@
         transition: all ease-in-out .2s
 
     > .item:hover > .url > .title
-        color: $delta
+        color: var(--color-accent)
 
     // maybe we can't nest html5 elements
     // can you help me?
@@ -55,12 +55,12 @@
         width: 25%
         float: right
         font-weight: 300
-        color: $gama
+        color: var(--color-text)
         text-align: right
         transition: all ease-in-out .2s
 
     .item:hover .url aside
-        color: $alpha
+        color: var(--color-accent)
 
 .blog > .list > .item > .url,
 .projects > .list > .item > .url

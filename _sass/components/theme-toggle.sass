@@ -1,0 +1,129 @@
+// Theme toggle button positioning and styling
+
+.theme-toggle-container
+    position: fixed
+    top: 20px
+    right: 20px
+    z-index: 1000
+    margin: 0
+    padding: 0
+
+.theme-toggle-button
+    cursor: pointer
+    display: inline-flex
+    align-items: center
+    justify-content: center
+    width: 45px
+    height: 45px
+    border-radius: 50%
+    background: var(--color-background-secondary)
+    color: var(--color-text)
+    font-size: 1.8rem
+    transition: all 0.3s ease
+    text-decoration: none
+    border: 2px solid var(--color-border)
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15)
+
+    &:hover
+        transform: rotate(20deg) scale(1.1)
+        background: var(--color-accent)
+        color: var(--color-background)
+        border-color: var(--color-accent)
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25)
+
+    &:active
+        transform: rotate(20deg) scale(0.95)
+
+// Dark mode theme toggle styling
+
+\:root
+    --color-text: #{$alpha}
+    --color-text-secondary: #{$beta}
+    --color-accent: #{$delta}
+    --color-background: #fff
+    --color-background-secondary: #{$epsilon}
+    --color-border: #eee
+    --color-code-bg: #fff
+
+[data-theme="dark"]
+    --color-text: #e0e0e0
+    --color-text-secondary: #f0f0f0
+    --color-accent: #ff9999
+    --color-background: #1a1a1a
+    --color-background-secondary: #2d2d2d
+    --color-border: #444
+    --color-code-bg: #0d0d0d
+
+// Apply theme colors to elements
+body
+    color: var(--color-text)
+    background: var(--color-background)
+    transition: background-color 0.3s ease, color 0.3s ease
+
+h1, h2, h3, h4
+    color: var(--color-text-secondary)
+
+a
+    color: var(--color-accent)
+
+p
+    color: var(--color-text)
+
+strong
+    color: var(--color-text-secondary)
+
+ul, ol
+    li
+        color: var(--color-text)
+
+blockquote
+    border-left-color: var(--color-border)
+
+hr
+    background: var(--color-border)
+
+code, tt
+    background: var(--color-code-bg)
+    color: var(--color-text)
+
+pre
+    background: var(--color-background-secondary)
+    color: var(--color-text)
+    border: 1px solid var(--color-border)
+
+figcaption
+    color: var(--color-text-secondary)
+
+// Table styling for dark mode
+table
+    border-collapse: collapse
+    width: 100%
+
+    th
+        background: var(--color-background-secondary)
+        color: var(--color-text-secondary)
+        padding: 10px
+        text-align: left
+        border: 1px solid var(--color-border)
+
+    td
+        padding: 10px
+        border: 1px solid var(--color-border)
+        color: var(--color-text)
+
+    tr:nth-child(even)
+        background: var(--color-background-secondary)
+
+[data-theme="dark"]
+    input, textarea
+        background: var(--color-background-secondary)
+        color: var(--color-text)
+        border-color: var(--color-border)
+
+    button
+        background: var(--color-background-secondary)
+        color: var(--color-text)
+        border-color: var(--color-border)
+
+    .highlight
+        background: var(--color-background-secondary)
