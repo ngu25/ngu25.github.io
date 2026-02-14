@@ -49,9 +49,7 @@ layout: compress
           }
         }
     
-        let theme = localStorage.getItem('theme');
-    
-        theme = theme || (window.matchMedia ? window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light' : 'light');
+        let theme = localStorage.getItem('theme') || 'light';
     
         setTheme(theme);
     
@@ -66,9 +64,11 @@ layout: compress
         }
       </script>
 
+    {% if page.title == "Home" %}
     <div class="theme-toggle-container">
         <a class="theme-toggle-button" id="theme-toggle" href="javascript:void(0);" onclick="modeSwitcher();">☀</a>
     </div>
+    {% endif %}
 
     <div class="wrapper-{% if site.width == "normal" %}normal{% elsif site.width == "large" %}large{% endif %}">
         {% if page.tag %}
