@@ -1,4 +1,5 @@
 # main text of home
+# bundle exec jekyll serve to build locally
 name: Navadeep Ganesh
 bio: "Beeping buzzer and blinking lights"
 
@@ -12,7 +13,7 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: flase
 resume-external: false
 resume-url: resume
 
