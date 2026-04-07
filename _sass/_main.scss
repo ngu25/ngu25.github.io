@@ -227,6 +227,52 @@ pre {
 
 img {
 	max-width: 100%;
+	height: auto;
+}
+
+// Responsive images inside post content
+.post img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0.75rem auto;
+}
+
+// Responsive 16:9 video/iframe wrapper
+.video-wrapper {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  margin: 1rem 0;
+
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+}
+
+// Styled collapsible project entries
+.post details {
+  margin: 0.75rem 0;
+  border: 1px solid var(--soft-border-color);
+  border-radius: 6px;
+  padding: 0.5rem 1rem 0.75rem;
+
+  summary {
+    cursor: pointer;
+    padding: 0.4rem 0;
+    user-select: none;
+
+    &:hover {
+      color: var(--link-color);
+    }
+  }
 }
 
 hr {
