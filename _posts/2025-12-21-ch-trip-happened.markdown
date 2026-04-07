@@ -4,6 +4,7 @@ layout: post
 date: 2025-12-21
 image: /assets/images/blog/techy_poster.jpeg
 headerImage: false
+published: false
 tag:
 - notes
 - blog
