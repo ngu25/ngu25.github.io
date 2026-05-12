@@ -1,7 +1,7 @@
 ---
 title: "📊 Project Builds"
 layout: post
-date: 2021-12-05
+#date: 2021-12-05
 tag:
 - projects
 - electronics
@@ -13,7 +13,7 @@ projects: true
 hidden: false # don't count this post in blog pagination
 description: "Collection of all projects"
 category: project
-author: navadeepganeshu
+author: navadeepganesh
 externalLink: false
 ---
 
@@ -42,7 +42,7 @@ externalLink: false
 <br>
 <img src="https://community.element14.com/resized-image/__size/868x488/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-95/4331.Screenshot-_2800_700_2900_.png" alt="Flight Simulator Display">
 <br>
-- Author: navadeepganeshu
+- Author: navadeepganesh
 - Creation date: June 2023 - August 2023
 
 </details>
@@ -60,7 +60,7 @@ externalLink: false
 
 <img src="https://community.element14.com/resized-image/__size/1170x1078/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-92/FirmwareFlow_5F00_ATCDC.drawio-_2800_1_2900_.png" alt="Firmware flow diagram">
 <br>
-- Author: navadeepganeshu
+- Author: navadeepganesh
 - Creation date: Mar 2023 - May 2023
 
 </details>
@@ -84,7 +84,7 @@ externalLink: false
 
 <img src="https://community.element14.com/resized-image/__size/620x436/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-39/5852.contentimage_5F00_216266.jpg" alt="Magnetic components project 4">
 <br>
-- Author: navadeepganeshu
+- Author: navadeepganesh
 - Creation date: Oct 2021 - Nov 2021
 
 </details>
@@ -99,7 +99,7 @@ externalLink: false
 <img src="https://community.element14.com/resized-image/__size/536x363/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-56/contentimage_5F00_211022.jpg" alt="DIY VCO project 1">  
 <img src="https://community.element14.com/resized-image/__size/416x377/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-56/contentimage_5F00_211029.jpg" alt="DIY VCO project 2"> 
 <br>
-- Author: navadeepganeshu
+- Author: navadeepganesh
 - Creation date: 10 Aug 2021 
 
 </details>
@@ -114,7 +114,7 @@ externalLink: false
 <img src="https://community.element14.com/resized-image/__size/1366x768/__key/communityserver-blogs-components-weblogfiles/00-00-00-02-85/0218.contentimage_5F00_198653.png" alt="DigiStep stepper controller screenshot">  
 <img src="https://community.element14.com/resized-image/__size/439x329/__key/communityserver-blogs-components-weblogfiles/00-00-00-02-85/4442.contentimage_5F00_198644.jpg" alt="DigiStep stepper controller photo">  
 <br>
-- Author: navadeepganeshu
+- Author: navadeepganesh
 - Creation date: 10 Apr 2021
 
 </details>
@@ -126,10 +126,10 @@ externalLink: false
 
 <p>Images</p>
 <br>
-<img src="https://community.element14.com/resized-image/__size/470x428/__key/communityserver-blogs-components-weblogfiles/00-00-00-02-80/6283.contentimage_5F00_196330.png" alt="AquaLoop water level indicator diagram"> 
-<img src="https://community.element14.com/resized-image/__size/509x575/__key/communityserver-blogs-components-weblogfiles/00-00-00-02-80/3162.contentimage_5F00_196338.jpg" alt="AquaLoop water level indicator photo">  
+<img src="https://community.element14.com/resized-image/__size/470x428/__key/communityserver-blogs-components-weblogfiles/00-00-00-02-80/6283.contentimage_5F00_196330.png" alt="AquaLoop water level indicator diagram">
+<img src="https://community.element14.com/resized-image/__size/509x575/__key/communityserver-blogs-components-weblogfiles/00-00-00-02-80/3162.contentimage_5F00_196338.jpg" alt="AquaLoop water level indicator photo">
 <br>
-- Author: navadeepganeshu
+- Author: navadeepganesh
 - Creation date: 19 Feb 2021
 
 </details>
@@ -145,7 +145,7 @@ externalLink: false
 
 <img src="https://community.element14.com/resized-image/__size/1366x768/__key/communityserver-blogs-components-weblogfiles/00-00-00-00-19/0131.contentimage_5F00_146143.png" alt="Arty-S7 Microblaze screenshot">
 <br>
-- Author: navadeepganeshu
+- Author: navadeepganesh
 - Creation date: 9 Nov 2020
 
 </details>
@@ -160,24 +160,30 @@ externalLink: false
 <br>
 <img src="https://community.element14.com/resized-image/__size/647x269/__key/communityserver-blogs-components-weblogfiles/00-00-00-00-07/3365.contentimage_5F00_151867.jpg" alt="Taiyo Yuden BLE EVK photo">
 <br>
-- Author: navadeepganeshu
+- Author: navadeepganesh
 - Creation date: 22 Aug 2020
 
 </details>
 
 ---
 <details>
-	<summary><b><a href="https://github.com/NavadeepGaneshU/AgriBot_RUASIC2020" target="_blank">Multiutility AgriBot</a></b></summary>
+	<summary><b><a href="https://github.com/ngu25/AgriBot_RUASIC2020" target="_blank">Multiutility AgriBot</a></b></summary>
 
 <p>Project Files and Video</p>
 
-<img src="https://github.com/NavadeepGaneshU/AgriBot_RUASIC2020/raw/main/CAD%20Models/Full%20view.jpeg" alt="AgriBot CAD full view"><br>
+<img src="https://github.com/ngu25/AgriBot_RUASIC2020/raw/main/CAD%20Models/Full%20view.jpeg" alt="AgriBot CAD full view" width="560" height="315"><br>
 
 <div class="video-wrapper">
-<iframe src="https://www.youtube.com/embed/WSfw8IrvT0Q" frameborder="0" allowfullscreen></iframe>
+  <iframe 
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/WSfw8IrvT0Q" 
+    frameborder="0" 
+    allowfullscreen>
+  </iframe>
 </div>
 <br>
-- Author: navadeepganeshu
+- Author: navadeepganesh
 - Creation date: Nov 2019 - Feb 2020
 
 </details>

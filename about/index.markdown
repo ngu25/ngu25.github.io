@@ -13,7 +13,7 @@ As from my early days, I've been fascinated by glowing and sounding stuff, leadi
 
 I am interested working in an environment having a mix of research and implementation factor around ideas. Thoroughly enjoying this for 5+ years now, I am also an active member in online technical communities including Element14 Community where I involve in building theme projects, discussions and RoadTest programs. While I attempt to live by experimentation and curiosity, the idea is to be able to build systems and products if the world collapses down now, and for the future of technology. If you're building anything around electronics, hardware systems, I am elated to strike a conversation. If you've read till here, thank you - I already respect you!
 
-I write blogs related to technology and random musings here at [Blogs Page!](https://navadeepganeshu.github.io/blog/). Thoughts for me, a grain of salt for you and tomfoolery for someone else!
+I write blogs related to technology and random musings here at [Blogs Page!](https://ngu25.github.io/blog/). Thoughts for me, a grain of salt for you and tomfoolery for someone else!
 
 Info: I am compiling a list of go-to resources related to Electrical/Electronics for anyone to get started, learn and design [EE_Resources_Chart_V0](https://docs.google.com/document/d/1F6QD4pwdFm0BHOtuB9GgOoCscusBkHyD78baEDBf7_U/edit?usp=sharing) (it's in drafty stage and contributions are appreciated!)
 

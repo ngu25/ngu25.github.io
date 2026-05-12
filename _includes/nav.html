@@ -30,6 +30,12 @@
             {% endif %}
         {% endif %}
 
+        {% if page.title != "Contact" %}
+            <li class="item">
+                <a class="link" href="{{ site.url }}/contact">Contact</a>
+            </li>
+        {% endif %}
+
         {% if site.resume == true %}
             <li class="item">
                 <a class="link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">Résumé</a>
@@ -41,6 +47,8 @@
                 <a class="link" href="{% if site.rnr-external %}{{ site.rnr-url }}{% else %}{{ site.url }}/{{ site.rnr-url }}{% endif %}">🚴</a>
             </li>
         {% endif %}
+
+
 		
     </ul>
 	
