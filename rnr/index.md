@@ -38,10 +38,6 @@ description:
   
 ---
 
-<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/104899288/activity-summary/655329da713b4a545dbc127e4026a33a281360df'></iframe>
-
----
-
 <iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/104899288/latest-rides/655329da713b4a545dbc127e4026a33a281360df'></iframe>
 
 ---
