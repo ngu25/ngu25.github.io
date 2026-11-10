@@ -25,9 +25,9 @@ description: Featured contents about projects, career, work etc.
 
 <p>Earlier this year, I got an oppportunity to work with feely sponsored RedPitaya STEMLab 125-10 kit. My activities done utilizing this kit got featured at their website on teaching materials page!</p>
 
-<img src="https://navadeepganeshu.github.io/assets/images/projects/rp_featured.png" width="600" height="300">
+<img src="/assets/images/projects/rp_featured.png" width="600" height="300" alt="Featured on RedPitaya" loading="lazy">
 
-All my RedPitaya projects and related files are at this [GitHub Repo](https://github.com/NavadeepGaneshU/redpitaya_student_tryout/)
+All my RedPitaya projects and related files are at this [GitHub Repo](https://github.com/ngu25/redpitaya_student_tryout/)
 
 ---
 
@@ -58,7 +58,7 @@ All my RedPitaya projects and related files are at this [GitHub Repo](https://gi
 
 [Contest Link](https://events.hackster.io/xcellent)
 
-<img src="https://navadeepganeshu.github.io/assets/images/projects/pynq_giveaway.jpeg" width="600" height="600">
+<img src="/assets/images/projects/pynq_giveaway.jpeg" width="600" height="600" alt="Xilinx PYNQ Giveaway" loading="lazy">
 
 <p> This is the prize won on one of the earlier monthly wishings!<p>
 

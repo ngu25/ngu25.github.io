@@ -3,7 +3,7 @@ title: "With innate curiosity, there is a place for chaos - why so??"
 layout: post
 date: 2024-01-13
 image: 
-headerImage: flase
+headerImage: false
 tag:
 - social media
 - curiosity

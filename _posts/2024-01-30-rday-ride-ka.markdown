@@ -1,7 +1,7 @@
 ---
 title: "(Honnavara -> Kannur) Republic Day Ride 2024: Exploring West Coast"
 layout: post
-date: 2023-01-30
+date: 2024-01-30
 image: /assets/images/blog/collage_rday_ride.jpg
 headerImage: true
 tag:
@@ -13,7 +13,7 @@ author: navadeepganeshu
 description:  Honnavara -> Udupi -> Mangaluru -> Kasaragod -> Kannur!
 ---
 
-After my last ride from [Thanjavur->Chennai in 2023](https://navadeepganeshu.github.io/iday-ride-tn/), maybe now I am able to sense how these rides feel like(started in the worst heat of east coast last august). So any plan now is appealing...haha except for climbing western ghats incline. We have a whatsapp group where about 6 days before the rode, I sent one hello message and yeah! indeed the enthusiasm showed up and we jotted down some possible locations to ride. The general idea is simple - make use of the national holiday to ride around the country, experience places and landscapes while on two wheels, decoupling from all the chaos of life routines, in a sustainable way by all means. Ganesh was interested to visit Kasaragod(closer to my hometown) and so I pitched If we could do a 350km stretch somewhere around that, we all could visit my home and stay there for a night.  
+After my last ride from [Thanjavur->Chennai in 2023](https://ngu25.github.io/iday-ride-tn/), maybe now I am able to sense how these rides feel like(started in the worst heat of east coast last august). So any plan now is appealing...haha except for climbing western ghats incline. We have a whatsapp group where about 6 days before the rode, I sent one hello message and yeah! indeed the enthusiasm showed up and we jotted down some possible locations to ride. The general idea is simple - make use of the national holiday to ride around the country, experience places and landscapes while on two wheels, decoupling from all the chaos of life routines, in a sustainable way by all means. Ganesh was interested to visit Kasaragod(closer to my hometown) and so I pitched If we could do a 350km stretch somewhere around that, we all could visit my home and stay there for a night.  
 
 ### Day 1
 
