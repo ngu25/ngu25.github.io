@@ -19,8 +19,12 @@ From nowhere in random, I came across this blogspot called [Reading Jim Williams
 
 Some related videos:
 
-<iframe width="560" height="310" src="https://www.youtube.com/embed/3S-AS86bj4w" frameborder="0" allowfullscreen></iframe>
-<iframe width="560" height="310" src="https://www.youtube.com/embed/w1rVJpejZi4" frameborder="0" allowfullscreen></iframe>
+<div class="video-wrapper">
+    <iframe width="560" height="310" src="https://www.youtube.com/embed/3S-AS86bj4w" frameborder="0" allowfullscreen loading="lazy"></iframe>
+</div>
+<div class="video-wrapper">
+    <iframe width="560" height="310" src="https://www.youtube.com/embed/w1rVJpejZi4" frameborder="0" allowfullscreen loading="lazy"></iframe>
+</div>
 
 Jim Williams Bibliography PDF: [http://web.mit.edu/klund/www/jw/jwbib.pdf](http://web.mit.edu/klund/www/jw/jwbib.pdf)
 

@@ -1,12 +1,21 @@
 .page
     margin-top: 125px
 
+    @media #{$below}
+        margin-top: 40px
+
     > h1
         text-align: center
         margin-bottom: 6rem
+
+        @media #{$below}
+            margin-bottom: 3rem
 
 .about
     img
         width: 50%
         margin: 0 auto
         display: block
+
+        @media #{$below}
+            width: 85%
