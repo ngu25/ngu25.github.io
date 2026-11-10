@@ -42,7 +42,7 @@ analytics-google: G-XHQQZ40Q1S
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: ngu25-github-io #navadeep-brave # Updated for new domain
+  shortname: https-navadeepganeshu-github-io
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # Social links
