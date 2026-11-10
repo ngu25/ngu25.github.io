@@ -13,7 +13,7 @@ projects: true
 hidden: false # don't count this post in blog pagination
 description: "Collection of all projects"
 category: project
-author: navadeepganesh
+author: navadeepganeshu
 externalLink: false
 ---
 
@@ -40,7 +40,7 @@ externalLink: false
 <br>
 - <a href="https://community.element14.com/challenges-projects/design-challenges/pathprogrammable3/b/blog/posts/path-to-programmable-iii-with-minized---what-is-it-unique-that-fpgas-do-at-all" target="_blank">1G ENET, GTX, NEON - what is it unique that FPGAs do at all?</a><br>
 <br>
-<img src="https://community.element14.com/resized-image/__size/868x488/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-95/4331.Screenshot-_2800_700_2900_.png" alt="Flight Simulator Display">
+<img src="https://community.element14.com/resized-image/__size/868x488/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-95/4331.Screenshot-_2800_700_2900_.png" alt="Flight Simulator Display" loading="lazy">
 <br>
 - Author: navadeepganesh
 - Creation date: June 2023 - August 2023
@@ -56,9 +56,9 @@ externalLink: false
 
 - <a href="https://community.element14.com/challenges-projects/design-challenges/at-the-core-design-challenge/b/blog/posts/atthecore-blog-5---brining-altogether-tmulti-core-deployment-and-application" target="_blank">Blog 1 to 5 - Final part of the series</a><br />
 <br>
-<img src="https://community.element14.com/resized-image/__size/1280x720/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-92/2768.20230504_5F00_230409.jpg" alt="At The Core project photo">
+<img src="https://community.element14.com/resized-image/__size/1280x720/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-92/2768.20230504_5F00_230409.jpg" alt="At The Core project photo" loading="lazy">
 
-<img src="https://community.element14.com/resized-image/__size/1170x1078/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-92/FirmwareFlow_5F00_ATCDC.drawio-_2800_1_2900_.png" alt="Firmware flow diagram">
+<img src="https://community.element14.com/resized-image/__size/1170x1078/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-92/FirmwareFlow_5F00_ATCDC.drawio-_2800_1_2900_.png" alt="Firmware flow diagram" loading="lazy">
 <br>
 - Author: navadeepganesh
 - Creation date: Mar 2023 - May 2023
@@ -72,17 +72,17 @@ externalLink: false
 
 <p>Project Blogs</p>
 
-- <a href="https://community.element14.com/challenges-projects/design-challenges/experimenting-with-magnetic-components/b/blog/posts/go-discrete-go-power-1-introduction-and-plan" target="_blank">Go Discrete : Go Power #2: Building and Testing the Power Converter</a><br>
+- <a href="https://community.element14.com/challenges-projects/design-challenges/experimenting-with-magnetic-components/b/blog/posts/go-discrete-go-power-1-introduction-and-plan" target="_blank">Go Discrete : Go Power #1: Introduction and Plan</a><br>
 - <a href="https://community.element14.com/challenges-projects/design-challenges/experimenting-with-magnetic-components/b/blog/posts/go-discrete-go-power-2-building-and-testing-the-power-converter" target="_blank">Go Discrete : Go Power #2: Building and Testing the Power Converter</a><br>
 
 <br>
-<img src="https://community.element14.com/resized-image/__size/620x409/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-39/5086.contentimage_5F00_214294.jpg" alt="Magnetic components project 1">
+<img src="https://community.element14.com/resized-image/__size/620x409/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-39/5086.contentimage_5F00_214294.jpg" alt="Magnetic components project 1" loading="lazy">
 
-<img src="https://community.element14.com/resized-image/__size/479x359/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-39/7446.contentimage_5F00_216140.jpg" alt="Magnetic components project 2">
+<img src="https://community.element14.com/resized-image/__size/479x359/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-39/7446.contentimage_5F00_216140.jpg" alt="Magnetic components project 2" loading="lazy">
 
-<img src="https://community.element14.com/resized-image/__size/620x320/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-39/6038.contentimage_5F00_216258.jpg" alt="Magnetic components project 3">
+<img src="https://community.element14.com/resized-image/__size/620x320/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-39/6038.contentimage_5F00_216258.jpg" alt="Magnetic components project 3" loading="lazy">
 
-<img src="https://community.element14.com/resized-image/__size/620x436/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-39/5852.contentimage_5F00_216266.jpg" alt="Magnetic components project 4">
+<img src="https://community.element14.com/resized-image/__size/620x436/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-39/5852.contentimage_5F00_216266.jpg" alt="Magnetic components project 4" loading="lazy">
 <br>
 - Author: navadeepganesh
 - Creation date: Oct 2021 - Nov 2021
@@ -96,8 +96,8 @@ externalLink: false
 
 <p>Images</p>
 <br>
-<img src="https://community.element14.com/resized-image/__size/536x363/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-56/contentimage_5F00_211022.jpg" alt="DIY VCO project 1">  
-<img src="https://community.element14.com/resized-image/__size/416x377/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-56/contentimage_5F00_211029.jpg" alt="DIY VCO project 2"> 
+<img src="https://community.element14.com/resized-image/__size/536x363/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-56/contentimage_5F00_211022.jpg" alt="DIY VCO project 1" loading="lazy">  
+<img src="https://community.element14.com/resized-image/__size/416x377/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-56/contentimage_5F00_211029.jpg" alt="DIY VCO project 2" loading="lazy"> 
 <br>
 - Author: navadeepganesh
 - Creation date: 10 Aug 2021 
@@ -111,8 +111,8 @@ externalLink: false
 
 <p>Images</p>
 <br>
-<img src="https://community.element14.com/resized-image/__size/1366x768/__key/communityserver-blogs-components-weblogfiles/00-00-00-02-85/0218.contentimage_5F00_198653.png" alt="DigiStep stepper controller screenshot">  
-<img src="https://community.element14.com/resized-image/__size/439x329/__key/communityserver-blogs-components-weblogfiles/00-00-00-02-85/4442.contentimage_5F00_198644.jpg" alt="DigiStep stepper controller photo">  
+<img src="https://community.element14.com/resized-image/__size/1366x768/__key/communityserver-blogs-components-weblogfiles/00-00-00-02-85/0218.contentimage_5F00_198653.png" alt="DigiStep stepper controller screenshot" loading="lazy">  
+<img src="https://community.element14.com/resized-image/__size/439x329/__key/communityserver-blogs-components-weblogfiles/00-00-00-02-85/4442.contentimage_5F00_198644.jpg" alt="DigiStep stepper controller photo" loading="lazy">  
 <br>
 - Author: navadeepganesh
 - Creation date: 10 Apr 2021
@@ -126,8 +126,8 @@ externalLink: false
 
 <p>Images</p>
 <br>
-<img src="https://community.element14.com/resized-image/__size/470x428/__key/communityserver-blogs-components-weblogfiles/00-00-00-02-80/6283.contentimage_5F00_196330.png" alt="AquaLoop water level indicator diagram">
-<img src="https://community.element14.com/resized-image/__size/509x575/__key/communityserver-blogs-components-weblogfiles/00-00-00-02-80/3162.contentimage_5F00_196338.jpg" alt="AquaLoop water level indicator photo">
+<img src="https://community.element14.com/resized-image/__size/470x428/__key/communityserver-blogs-components-weblogfiles/00-00-00-02-80/6283.contentimage_5F00_196330.png" alt="AquaLoop water level indicator diagram" loading="lazy">
+<img src="https://community.element14.com/resized-image/__size/509x575/__key/communityserver-blogs-components-weblogfiles/00-00-00-02-80/3162.contentimage_5F00_196338.jpg" alt="AquaLoop water level indicator photo" loading="lazy">
 <br>
 - Author: navadeepganesh
 - Creation date: 19 Feb 2021
@@ -141,9 +141,9 @@ externalLink: false
 
 <p>Images</p>
 <br>
-<img src="https://community.element14.com/resized-image/__size/393x340/__key/communityserver-blogs-components-weblogfiles/00-00-00-00-19/5824.contentimage_5F00_146140.jpg" alt="Arty-S7 Microblaze workshop photo">
+<img src="https://community.element14.com/resized-image/__size/393x340/__key/communityserver-blogs-components-weblogfiles/00-00-00-00-19/5824.contentimage_5F00_146140.jpg" alt="Arty-S7 Microblaze workshop photo" loading="lazy">
 
-<img src="https://community.element14.com/resized-image/__size/1366x768/__key/communityserver-blogs-components-weblogfiles/00-00-00-00-19/0131.contentimage_5F00_146143.png" alt="Arty-S7 Microblaze screenshot">
+<img src="https://community.element14.com/resized-image/__size/1366x768/__key/communityserver-blogs-components-weblogfiles/00-00-00-00-19/0131.contentimage_5F00_146143.png" alt="Arty-S7 Microblaze screenshot" loading="lazy">
 <br>
 - Author: navadeepganesh
 - Creation date: 9 Nov 2020
@@ -158,7 +158,7 @@ externalLink: false
 <p>Images</p>
 
 <br>
-<img src="https://community.element14.com/resized-image/__size/647x269/__key/communityserver-blogs-components-weblogfiles/00-00-00-00-07/3365.contentimage_5F00_151867.jpg" alt="Taiyo Yuden BLE EVK photo">
+<img src="https://community.element14.com/resized-image/__size/647x269/__key/communityserver-blogs-components-weblogfiles/00-00-00-00-07/3365.contentimage_5F00_151867.jpg" alt="Taiyo Yuden BLE EVK photo" loading="lazy">
 <br>
 - Author: navadeepganesh
 - Creation date: 22 Aug 2020
@@ -171,7 +171,7 @@ externalLink: false
 
 <p>Project Files and Video</p>
 
-<img src="https://github.com/ngu25/AgriBot_RUASIC2020/raw/main/CAD%20Models/Full%20view.jpeg" alt="AgriBot CAD full view" width="560" height="315"><br>
+<img src="https://github.com/ngu25/AgriBot_RUASIC2020/raw/main/CAD%20Models/Full%20view.jpeg" alt="AgriBot CAD full view" width="560" height="315" loading="lazy"><br>
 
 <div class="video-wrapper">
   <iframe 
@@ -179,7 +179,8 @@ externalLink: false
     height="315"
     src="https://www.youtube.com/embed/WSfw8IrvT0Q" 
     frameborder="0" 
-    allowfullscreen>
+    allowfullscreen
+    loading="lazy">
   </iframe>
 </div>
 <br>

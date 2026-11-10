@@ -28,30 +28,42 @@ layout: compress
 </head>
 <body>
 
+    <div class="theme-toggle-container">
+        <a class="theme-toggle-button" id="theme-toggle" href="javascript:void(0);" onclick="modeSwitcher();" aria-label="Toggle dark/light theme">☀</a>
+    </div>
+
     <script>
         function setTheme(theme) {
           try {
-               if (theme === "dark") {
-            document.documentElement.setAttribute('data-theme', 'dark');
-            window.localStorage.setItem('theme', 'dark');
-            document.getElementById("theme-toggle").textContent = '☾';
-            document.getElementById("theme-toggle").classList.add('sun');
-            document.getElementById("theme-toggle").classList.remove('moon');
-              } else {
-            document.documentElement.setAttribute('data-theme', 'light');
-            window.localStorage.setItem('theme', 'light');
-            document.getElementById("theme-toggle").textContent = '☀';
-            document.getElementById("theme-toggle").classList.add('moon');
-            document.getElementById("theme-toggle").classList.remove('sun');
+            const toggleBtn = document.getElementById("theme-toggle");
+            if (theme === "dark") {
+              document.documentElement.setAttribute('data-theme', 'dark');
+              window.localStorage.setItem('theme', 'dark');
+              if (toggleBtn) {
+                toggleBtn.textContent = '☾';
+                toggleBtn.classList.add('sun');
+                toggleBtn.classList.remove('moon');
               }
+            } else {
+              document.documentElement.setAttribute('data-theme', 'light');
+              window.localStorage.setItem('theme', 'light');
+              if (toggleBtn) {
+                toggleBtn.textContent = '☀';
+                toggleBtn.classList.add('moon');
+                toggleBtn.classList.remove('sun');
+              }
+            }
           } catch (error) {
-              console.log('%c Welcone to CNotes 👋', 'font-family: sans-serif;color: white;background: black;font-size: 2rem;font-weight: bold;')
+            console.error(error);
           }
         }
     
-        let theme = localStorage.getItem('theme') || 'light';
+        let savedTheme = localStorage.getItem('theme');
+        if (!savedTheme) {
+          savedTheme = (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) ? 'dark' : 'light';
+        }
     
-        setTheme(theme);
+        setTheme(savedTheme);
     
         function modeSwitcher() {
           let currentMode = document.documentElement.getAttribute('data-theme');
@@ -62,13 +74,7 @@ layout: compress
             setTheme('dark');
           }
         }
-      </script>
-
-    {% if page.title == "Home" %}
-    <div class="theme-toggle-container">
-        <a class="theme-toggle-button" id="theme-toggle" href="javascript:void(0);" onclick="modeSwitcher();">☀</a>
-    </div>
-    {% endif %}
+    </script>
 
     <div class="wrapper-{% if site.width == "normal" %}normal{% elsif site.width == "large" %}large{% endif %}">
         {% if page.tag %}

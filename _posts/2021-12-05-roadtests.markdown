@@ -19,8 +19,8 @@ externalLink: false
 
 [STM32U5A9J-DK Discovery Kit with Embedded Display - Review](https://community.element14.com/products/roadtest/rv/roadtest_reviews/1749/review_of_stm32u5a9j-dk_discovery_kit_with_embedded_display)
 
-<img src="https://community.element14.com/resized-image/__size/1280x720/__key/roadtestreviewfiles/141ff644ba1145829a053589450d117f/20230905_5F00_002652.jpg" width="620" height="440">
-<img src="https://community.element14.com/cfs-file/__key/roadtestreviewfiles/141ff644ba1145829a053589450d117f/20231114_5F00_083557.jpg" width="620" height="440">
+<img src="https://community.element14.com/resized-image/__size/1280x720/__key/roadtestreviewfiles/141ff644ba1145829a053589450d117f/20230905_5F00_002652.jpg" width="620" height="440" alt="STM32U5A9J-DK Review 1" loading="lazy">
+<img src="https://community.element14.com/cfs-file/__key/roadtestreviewfiles/141ff644ba1145829a053589450d117f/20231114_5F00_083557.jpg" width="620" height="440" alt="STM32U5A9J-DK Review 2" loading="lazy">
 
 - RoadTest: STM32U5A9J-DK Discovery Kit with Embedded Display
 - Author: navadeepganeshu
@@ -31,8 +31,8 @@ externalLink: false
 
 [Summer of FPGAs: MAX77714 Multichannel PMIC EVM - Review](https://community.element14.com/products/roadtest/rv/roadtest_reviews/1482/summer_of_fpgas_max7)
 
-<img src="https://community.element14.com/resized-image/__size/784x798/__key/roadtestreviewfiles/81c8c8af6ae44f1f94afed260b463590/0045.contentimage_5F00_214814.jpg" width="620" height="440">
-<img src="https://community.element14.com/resized-image/__size/620x546/__key/roadtestreviewfiles/81c8c8af6ae44f1f94afed260b463590/6825.contentimage_5F00_214816.png" width="620" height="440">  
+<img src="https://community.element14.com/resized-image/__size/784x798/__key/roadtestreviewfiles/81c8c8af6ae44f1f94afed260b463590/0045.contentimage_5F00_214814.jpg" width="620" height="440" alt="MAX77714 PMIC EVM Review 1" loading="lazy">
+<img src="https://community.element14.com/resized-image/__size/620x546/__key/roadtestreviewfiles/81c8c8af6ae44f1f94afed260b463590/6825.contentimage_5F00_214816.png" width="620" height="440" alt="MAX77714 PMIC EVM Review 2" loading="lazy">  
 
 - RoadTest: Summer of FPGAs: MAX77714 Multichannel PMIC EVM
 - Author: navadeepganeshu
@@ -43,7 +43,7 @@ externalLink: false
 
 [Trinamic TMCM-0960-MotionPy SBC + Stepper Motor - Review](https://community.element14.com/products/roadtest/rv/roadtest_reviews/970/trinamic_tmcm-0960-m)
 
-<img src="https://community.element14.com/resized-image/__size/614x409/__key/roadtestreviewfiles/33be7a122d904767b153736ccb6da2f4/2273.contentimage_5F00_208830.jpg" width="620" height="440">  
+<img src="https://community.element14.com/resized-image/__size/614x409/__key/roadtestreviewfiles/33be7a122d904767b153736ccb6da2f4/2273.contentimage_5F00_208830.jpg" width="620" height="440" alt="Trinamic TMCM-0960-MotionPy Review" loading="lazy">  
 
 - RoadTest: Trinamic TMCM-0960-MotionPy SBC + Stepper Motor
 - Author: navadeepganeshu
@@ -54,7 +54,7 @@ externalLink: false
 
 [Trinamic TMC2300-IOT-REF Stepper Driver + Motor - Review](https://community.element14.com/products/roadtest/rv/roadtest_reviews/949/trinamic_tmc2300-iot)
 
-<img src="https://community.element14.com/resized-image/__size/549x411/__key/roadtestreviewfiles/9c367c8be9d046e3a7682b119ced158f/8078.contentimage_5F00_196353.jpg" width="620" height="440">  
+<img src="https://community.element14.com/resized-image/__size/549x411/__key/roadtestreviewfiles/9c367c8be9d046e3a7682b119ced158f/8078.contentimage_5F00_196353.jpg" width="620" height="440" alt="Trinamic TMC2300-IOT-REF Review" loading="lazy">  
 
 - RoadTest: Trinamic TMC2300-IOT-REF Stepper Driver + Motor
 - Author: navadeepganeshu
@@ -65,7 +65,7 @@ externalLink: false
 
 [Infineon BLDC Shield + XMC 4700 Relax Kit + Motor - Review](https://community.element14.com/products/roadtest/rv/roadtest_reviews/909/infineon_bldc_shield)
 
-<img src="https://community.element14.com/resized-image/__size/487x357/__key/roadtestreviewfiles/b111e23afa66437090c4beaa194a0596/1565.contentimage_5F00_173089.jpg" width="620" height="440">  
+<img src="https://community.element14.com/resized-image/__size/487x357/__key/roadtestreviewfiles/b111e23afa66437090c4beaa194a0596/1565.contentimage_5F00_173089.jpg" width="620" height="440" alt="Infineon BLDC Shield Review" loading="lazy">  
 
 - RoadTest: Infineon BLDC Shield + XMC 4700 Relax Kit + Motor
 - Author: navadeepganeshu
@@ -76,7 +76,7 @@ externalLink: false
 
 [Taiyo Yuden Bluetooth® LE EVK - Review](https://community.element14.com/products/roadtest/rv/roadtest_reviews/866/taiyo_yuden_bluetoot)
 
-<img src="https://community.element14.com/resized-image/__size/620x440/__key/roadtestreviewfiles/928adb71dd2646238b1581764a6d9bf6/1462.contentimage_5F00_172163.jpg" width="620" height="440">  
+<img src="https://community.element14.com/resized-image/__size/620x440/__key/roadtestreviewfiles/928adb71dd2646238b1581764a6d9bf6/1462.contentimage_5F00_172163.jpg" width="620" height="440" alt="Taiyo Yuden BLE EVK Review" loading="lazy">  
 
 - RoadTest: Taiyo Yuden Bluetooth® LE EVK
 - Author: navadeepganeshu
