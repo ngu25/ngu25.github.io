@@ -11,7 +11,8 @@ tag:
 - blog
 category: blog
 author: navadeepganeshu
-description: Simply to self document and learn from experience. Closed space until you're really curious :)
+description: Simply to self document and learn from experience. Closed space :)
+password_hash: 9ef54ac2f6bf457c44c84a6c38aa199e07412382dc4a01aed8896bb39664647e
 ---
 ## Revisiting myself
 <i>25th November 2026</i>
@@ -30,13 +31,13 @@ A book talking about Agility Quotient(AQ) by Liz Tran stood out particularly and
 
 ---
 ## Being spurious, open to trying, and a lot of old things again to improve on...
-<i>16th June 2024</i>
+<i>16th June 2024</i>  
 
-Lost consistency in writing these logs, but ending up here in this screen while the mind feels scattered. Experiencing more indisclipne, lack to attention to details in activities, unnecessary food cravings haha, more procrastination and a lot of froth in the productivity. Last couple of months have been a plateau but some excitement surges with getting AMD Hackster hardware for a project (UM790 Pro Mini PC) and the work with DevHeads kept me busy. At office days go flat - it's upon me to deliver the required and work on things. All I feel like caring about is money, health and some people around. Tried to stay no-strings attached in situations and been doubling down on trying to learn about companies and stocks. So far having a reasonable gains on investments - haven't really made me feel bad and been reading books to adapt mindset and methods. One such is [The most important thing - Illuminated](https://cup.columbia.edu/book/the-most-important-thing-illuminated/9780231162845) talking about a set of strategies and observations from people and history of markets.
+Lost consistency in writing these logs, but ending up here in this screen while the mind feels scattered. Last couple of months have been a plateau but some excitement surges with getting AMD Hackster hardware for a project (UM790 Pro Mini PC) and the work with DevHeads kept me busy.  
 <br>
 Got some spurious thoughts and ideas as to what to do in a long term. Still on an exploration mode to find a pivot. Oops! Maybe I get disturbed by noise and people chattering around a lot....
 <br>
-Well, bought myself a GoPro Hero 12 with a feeling of trying some cycling, nature related content. Shot a couple of reels with my sister for instagram. But yeah, its again spurious and sometimes I feel like doing it suddenly - content capture is a creative act and it's a memory. I feel a camera can capture too much good for memories. What is it all without sometimes looking at Google Photos timeline and cringing, laughing at ownself.
+Well, bought myself a GoPro Hero 12 with a feeling of trying some cycling, nature related content. Shot a couple of reels with my sister for instagram. But yeah, its again spurious and sometimes I feel like doing it suddenly - content capture is a creative act and it's a memory. I feel a camera can capture too much good for memories. What is it all without sometimes looking at Google Photos timeline and cringing, laughing at ownself.  
 <br>
 Tried something spurious again yesterday. Woke up with a missed ride to Nandi Hills and got FOMO. Heard one of my friends telling about food delivery, so gave a try signing up to Shadowfax. Not a bad experience, ended up delivering 6 orders and made 250rs + 50rs cash in tips. Maybe I'll jot down more about this:  
 1. I feel good about meeting new, random people and it shows the spectrum. My first order was getting late picking up at restaurant but the staff seemed relaxed and unworried while I nervously waited for it. Was 3km uptil the delivery point. Had a rear tube puncture right after the delivery near BEL entrance.
