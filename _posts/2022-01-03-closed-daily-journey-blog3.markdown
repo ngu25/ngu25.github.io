@@ -13,6 +13,22 @@ category: blog
 author: navadeepganeshu
 description: Simply to self document and learn from experience. Closed space until you're really curious :)
 ---
+## Revisiting myself
+<i>25th November 2026</i>
+
+The last entry of 16th June 2024 was around the time I completed 1 year at work and now it's +2.5 years later. A lot of interesting things, new learnings have happened. What I am continuing on from then is the innate curiosity in exploration but realizing there needs to be an overarching direction. Build some interesting electronics systems for industrial and defense applications, visited facilities and learnt one or two about end-to-end product development for mixed-signal and high-speed electronics designs which was the driving reason for me to move into this current role at a deftech company.  
+
+- What Continued: exploratory mindset and so did GCCP Takshashila where I met some interesting people in the policy space and got a know-how of what it is and what it takes. Read a few biographies and non-fictions on global landscape, economics and that kept my spare time occupied through mid-2025 to early-2026 along with technical reading and extensions from work. Now excited about the the Ham Radio ASOC exam for a station setup!  
+
+- What's changing: Got introduced to VN through linkedin by his MentorLog and a self-reflection QnA document writeup made me think about a few things deeply. Questions like what kind of people secretly intimidate you? What would you be proud of yourself if met in 15yrs? What are you afraid about yourself that may be true?   
+
+These got me inside-out and answering it took effort and real self-reflection. I am now rethinking about some of these and why did i decide what I did and how it effects the overarching plan (that is now being set)  
+
+A book talking about Agility Quotient(AQ) by Liz Tran stood out particularly and me being a firefighter pseudo novelist is trying to be a good blend of firefighter-novelist-astronaut-neurosurgeon.  
+
+- National Holiday Cycle Rides: Yess. Every single time.  
+
+---
 ## Being spurious, open to trying, and a lot of old things again to improve on...
 <i>16th June 2024</i>
 
